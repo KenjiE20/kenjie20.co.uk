@@ -1,10 +1,12 @@
 ---
 title: "Rawr"
-date: "2007-06-11"
+date: "2007-06-11T12:35:00+00:00"
 categories: 
   - "news"
 tags: 
   - "websites"
+guid: http://eddie/wordpress/?p=26
+aliases: /2007/06/rawr/
 ---
 
 I has finally managed to get this place back up and online...

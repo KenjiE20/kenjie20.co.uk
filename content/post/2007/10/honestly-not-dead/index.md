@@ -1,8 +1,10 @@
 ---
 title: "Honestly... not dead"
-date: "2007-10-18"
+date: "2007-10-18T22:12:00+00:00"
 categories: 
   - "news"
+guid: http://eddie/wordpress/?p=32
+aliases: /2007/10/honestly-not-dead/
 ---
 
 no really, I'm not..

@@ -1,8 +1,10 @@
 ---
 title: "Yarg..."
-date: "2007-06-21"
+date: "2007-06-21T10:38:00+00:00"
 categories: 
   - "news"
+guid: http://eddie/wordpress/?p=30
+aliases: /2007/06/yarg/
 ---
 
 Well tuesday was a complete waste. I took the afternoon off of work to view a new flat, but apparantly the estate agency couldn't be bothered to hang on the line long enough for my phone to go to answerphone, and because I work on the helpdesk, I can't return calls till after 5:00. guess when they shut. :x

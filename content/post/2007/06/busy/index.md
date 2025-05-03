@@ -1,8 +1,10 @@
 ---
 title: "Busy.."
-date: "2007-06-26"
+date: "2007-06-26T14:31:00+00:00"
 categories: 
   - "news"
+guid: http://eddie/wordpress/?p=31
+aliases: /2007/06/busy/
 ---
 
 Uch it's all kicking off at once, not only is my job contract finishing this week, I'm moving this weekend.
