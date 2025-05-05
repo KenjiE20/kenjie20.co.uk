@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: "2008-01-09"
+date: "2008-01-09T19:33:00+00:00"
 categories: 
   - "news"
 tags: 
@@ -8,6 +8,8 @@ tags:
   - "games"
   - "maps"
   - "websites"
+guid: http://eddie/wordpress/?p=33
+aliases: /2008/01/downloads/
 ---
 
 Quick notice to say I've re-added the download(s) back to the site.

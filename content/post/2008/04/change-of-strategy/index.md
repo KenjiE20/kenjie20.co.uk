@@ -1,11 +1,13 @@
 ---
 title: "Change of strategy"
-date: "2008-04-10"
+date: "2008-04-10T22:48:00+00:00"
 categories: 
   - "news"
 tags: 
   - "games"
   - "maps"
+guid: http://eddie/wordpress/?p=34
+aliases: /2008/04/change-of-strategy/
 ---
 
 Yeah, there is no way I'm ever gonna manage to keep updating this site. I just no longer have the urge to do so.
