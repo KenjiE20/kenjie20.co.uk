@@ -1,6 +1,6 @@
 ---
 title: "Weechat script bug fix"
-date: "2009-09-05"
+date: "2009-09-05T22:40:50+00:00"
 categories: 
   - "weechat"
 tags: 
@@ -10,6 +10,8 @@ tags:
   - "linux"
   - "scripts"
   - "weechat"
+guid: http://www.longbowslair.co.uk/?p=796
+aliases: /2009/09/weechat-script-bug-fix/
 ---
 
 Updates to both chanmon and highmon, to disable their buffers for triggering an extra highlight.

@@ -1,6 +1,6 @@
 ---
 title: "Alice and Kev"
-date: "2009-08-01"
+date: "2009-08-01T12:52:29+00:00"
 categories: 
   - "news"
 tags: 
@@ -8,6 +8,8 @@ tags:
   - "games"
   - "sims-3"
   - "storyline"
+guid: http://www.longbowslair.co.uk/?p=633
+aliases: /2009/08/alice-and-kev/
 ---
 
 I happened across [this](http://aliceandkev.wordpress.com/) the other day in my internet wanderings. [Alice and Kev](http://aliceandkev.wordpress.com/) is an experiment in playing a homeless family in [The Sims 3](http://www.thesims3.com/).

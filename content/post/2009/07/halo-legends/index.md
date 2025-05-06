@@ -1,6 +1,7 @@
 ---
 title: "Halo Legends"
 date: "2009-07-24"
+date: "2009-07-24T17:02:00+00:00"
 categories: 
   - "news"
   - "videos"
@@ -13,6 +14,8 @@ tags:
   - "production-i-g"
   - "studio-4°c"
   - "toei-animation"
+guid: http://www.longbowslair.co.uk/?p=509
+aliases: /2009/07/halo-legends/
 ---
 
 So this got announced the other day too;

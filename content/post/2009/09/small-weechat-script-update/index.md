@@ -1,6 +1,6 @@
 ---
 title: "Small Weechat script update"
-date: "2009-09-02"
+date: "2009-09-02T11:40:10+00:00"
 categories: 
   - "weechat"
 tags: 
@@ -11,6 +11,8 @@ tags:
   - "linux"
   - "scripts"
   - "weechat"
+guid: http://www.longbowslair.co.uk/?p=771
+aliases: /2009/09/small-weechat-script-update/
 ---
 
 Updates to both chanmon and highmon, to remove the unsightly text chunks when '/help' is called by itself.

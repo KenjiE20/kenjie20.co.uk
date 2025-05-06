@@ -1,11 +1,13 @@
 ---
 title: "Windows 7"
-date: "2009-01-12"
+date: "2009-01-12T18:05:07+00:00"
 categories: 
   - "news"
 tags: 
   - "beta"
   - "windows-7"
+guid: http://www.longbowslair.co.uk/?p=365
+aliases: /2009/01/windows-7/
 ---
 
 So like every other techie pleb out there, I downloaded the [Windows 7](http://www.microsoft.com/windows/windows-7/) Beta the other day. While I reserve final judgement over whether this is a decent release or not, there are a few nice things in 7 that are going elevate it to possible 'XP killer'

@@ -1,6 +1,6 @@
 ---
 title: "Weechat scripts update"
-date: "2009-08-10"
+date: "2009-08-10T16:35:29+00:00"
 categories: 
   - "weechat"
 tags: 
@@ -13,6 +13,8 @@ tags:
   - "rslap"
   - "scripts"
   - "weechat"
+guid: http://www.longbowslair.co.uk/?p=745
+aliases: /2009/08/weechat-scripts-update/
 ---
 
 All three of the scripts I've put out have been updated. No major changes, some code cleanup. Chanmon and Highmon have in-client help available on /help chanmon or /help highmon
