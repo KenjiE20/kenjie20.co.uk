@@ -1,6 +1,6 @@
 ---
 title: "Happy New Year & rslap 1.3.1"
-date: "2010-12-30"
+date: "2010-12-30T20:38:54+00:00"
 categories: 
   - "news"
   - "weechat"
@@ -13,6 +13,8 @@ tags:
   - "rslap"
   - "scripts"
   - "weechat"
+guid: http://www.longbowslair.co.uk/?p=930
+url: /2010/12/happy-new-year-rslap-1-3-1/
 ---
 
 Small fix to rslap to finally be rid of that mildly annoying uninitialised value error

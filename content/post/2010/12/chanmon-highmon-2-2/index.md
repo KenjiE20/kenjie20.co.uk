@@ -1,6 +1,6 @@
 ---
 title: "chanmon & highmon 2.2"
-date: "2010-12-22"
+date: "2010-12-22T17:36:19+00:00"
 categories: 
   - "news"
   - "weechat"
@@ -12,6 +12,8 @@ tags:
   - "irc"
   - "linux"
   - "weechat"
+guid: http://www.longbowslair.co.uk/?p=926
+url: /2010/12/chanmon-highmon-2-2/
 ---
 
 Changed channel colour to use the API, in preparation for WeeChat 0.3.4, which removes a few config options in favour of a single one, for 256 colour support.
