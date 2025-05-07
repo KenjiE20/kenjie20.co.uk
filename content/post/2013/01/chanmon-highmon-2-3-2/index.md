@@ -1,6 +1,6 @@
 ---
 title: "chanmon & highmon 2.3.2"
-date: "2013-01-14"
+date: "2013-01-14T17:22:45+00:00"
 categories: 
   - "weechat"
 tags: 
@@ -12,6 +12,8 @@ tags:
   - "linux"
   - "scripts"
   - "weechat"
+guid: http://www.longbowslair.co.uk/?p=993
+url: /2013/01/chanmon-highmon-2-3-2/
 ---
 
 Let highmon and chanmon bar mode use the chat separator as set by weechat's config
