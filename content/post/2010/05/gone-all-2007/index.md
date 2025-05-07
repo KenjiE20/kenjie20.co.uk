@@ -12,7 +12,7 @@ summary: |-
 
   Now at this point, I might have talked about the game (not that it's really useful any more), or about how Steam has fixed those things that made me stop using it, over 2 years ago. Unfortunately, everything that I disliked about Steam then, seems more or less to still be present in Steam now.
 guid: http://www.longbowslair.co.uk/?p=894
-url: /2010/05/gone-all-2007/
+aliases: /2010/05/gone-all-2007/
 ---
 
 So it seems I've finally caught up to 2007, not only have I got this [twitter](http://twitter.com/kenjie20) thing (about which I have another blog entry forming) but after 920 days since the last time I used it, I've re-installed Steam. I'll be first to admit, I'm a sucker for a bit of a freebie give-away, and what better give-away is there than Valve's Portal free to claim till May 24th.

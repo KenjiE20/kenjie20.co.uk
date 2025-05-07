@@ -21,7 +21,7 @@ tags:
   - "transformers"
   - "wilenkin"
 guid: http://www.longbowslair.co.uk/?p=841
-url: /2010/01/the-minds-series-and-transformers/
+aliases: /2010/01/the-minds-series-and-transformers/
 ---
 
 So over the holidays [Barney's Mind](http://barneysmind.blogspot.com/) ([YouTube](http://www.youtube.com/user/IRAMightyPirate#grid/user/8906695BE1FCF060)) reached its finale, and while [Freeman's](http://www.accursedfarms.com/) and [Shephard's Mind](http://www.shephardsmind.half-lifecreations.com/) ([YouTube](http://www.youtube.com/user/KrimsinYT#grid/user/9C5D30F8EF72D19A)) are busy being worked on, a rather awesome rendition of [Chell's Mind](http://cyhanide.blogspot.com/) (Portal) has appeared to fill the void ([YouTube](http://www.youtube.com/watch?v=3xgncUYbzMA)).

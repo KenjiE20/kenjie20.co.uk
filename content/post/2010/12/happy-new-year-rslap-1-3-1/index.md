@@ -14,7 +14,7 @@ tags:
   - "scripts"
   - "weechat"
 guid: http://www.longbowslair.co.uk/?p=930
-url: /2010/12/happy-new-year-rslap-1-3-1/
+aliases: /2010/12/happy-new-year-rslap-1-3-1/
 ---
 
 Small fix to rslap to finally be rid of that mildly annoying uninitialised value error

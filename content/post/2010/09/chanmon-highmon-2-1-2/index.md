@@ -14,7 +14,7 @@ tags:
   - "scripts"
   - "weechat"
 guid: http://www.longbowslair.co.uk/?p=914
-url: /2010/09/chanmon-highmon-2-1-2/
+aliases: /2010/09/chanmon-highmon-2-1-2/
 ---
 
 Small bug fixes to both scripts; the .logging variable was not correctly turning buffer logging back on.

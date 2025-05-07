@@ -13,7 +13,7 @@ tags:
   - "scripts"
   - "weechat"
 guid: http://www.longbowslair.co.uk/?p=909
-url: /2010/09/small-bug-fix-to-chanmon/
+aliases: /2010/09/small-bug-fix-to-chanmon/
 ---
 
 Just a quick bug fix update to chanmon. It was failing to detect open buffers on more than one screen when using the 'dynmon' feature (thanks to m4v for report and fix)

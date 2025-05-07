@@ -14,7 +14,7 @@ tags:
   - "scripts"
   - "weechat"
 guid: http://www.longbowslair.co.uk/?p=905
-url: /2010/08/chanhighmon-updates/
+aliases: /2010/08/chanhighmon-updates/
 ---
 
 Okay, so I _may_ have neglected doing an update for a while. Well have a new version of [chanmon](/downloads/weechat-scripts/chanmon/) and [highmon](/downloads/weechat-scripts/highmon/) then.

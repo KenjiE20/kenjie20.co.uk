@@ -15,7 +15,7 @@ tags:
   - "scripts"
   - "weechat"
 guid: http://www.longbowslair.co.uk/?p=920
-url: /2010/12/script-updates/
+aliases: /2010/12/script-updates/
 ---
 
 Small bug fixes to nickregain, chanmon and highmon scripts;

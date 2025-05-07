@@ -17,7 +17,7 @@ tags:
   - "twitter"
   - "weechat"
 guid: http://www.longbowslair.co.uk/?p=886
-url: /2010/04/weechat-scripts-mass-update/
+aliases: /2010/04/weechat-scripts-mass-update/
 ---
 
 So it's been a while since I posted anything here, and now there's 4 updates all at once, typical.

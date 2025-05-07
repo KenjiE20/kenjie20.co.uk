@@ -14,7 +14,7 @@ tags:
   - "scripts"
   - "weechat"
 guid: http://www.longbowslair.co.uk/?p=883
-url: /2010/01/chanmon-highmon-v1-7/
+aliases: /2010/01/chanmon-highmon-v1-7/
 ---
 
 New versions of highmon and chanmon, version 1.7.
