@@ -13,7 +13,7 @@ tags:
   - "scripts"
   - "weechat"
 guid: http://www.longbowslair.co.uk/?p=993
-url: /2013/01/chanmon-highmon-2-3-2/
+aliases: /2013/01/chanmon-highmon-2-3-2/
 ---
 
 Let highmon and chanmon bar mode use the chat separator as set by weechat's config

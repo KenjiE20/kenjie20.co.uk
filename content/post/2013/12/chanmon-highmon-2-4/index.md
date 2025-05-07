@@ -13,7 +13,7 @@ tags:
   - "scripts"
   - "weechat"
 guid: http://www.longbowslair.co.uk/?p=1032
-url: /2013/12/chanmon-highmon-2-4/
+aliases: /2013/12/chanmon-highmon-2-4/
 ---
 
 Added support for weechat's new colour eval in buffer timestamp, which is used for bar output.

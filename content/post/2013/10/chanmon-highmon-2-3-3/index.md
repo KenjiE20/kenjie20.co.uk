@@ -13,7 +13,7 @@ tags:
   - "scripts"
   - "weechat"
 guid: http://www.longbowslair.co.uk/?p=1012
-url: /2013/10/chanmon-highmon-2-3-3/
+aliases: /2013/10/chanmon-highmon-2-3-3/
 ---
 
 Small update to chanmon & highmon, to give users who somehow keep managing to close their buffers a way to recreate it.
