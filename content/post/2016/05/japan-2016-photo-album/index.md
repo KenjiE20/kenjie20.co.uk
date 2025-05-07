@@ -1,6 +1,6 @@
 ---
 title: "Japan 2016 Photo Album"
-date: "2016-05-27"
+date: "2016-05-27T22:58:58+00:00"
 categories: 
   - "blog"
   - "news"
@@ -8,6 +8,8 @@ tags:
   - "holiday"
   - "japan"
   - "photos"
+guid: http://www.longbowslair.co.uk/?p=1123
+aliases: /2016/05/japan-2016-photo-album/
 ---
 
 \[PiwigoPress id=429 url='https://piwigo.kenjie20.co.uk/' size='2s' class='alignright' lnktype='album' opntype='\_blank' order='undefined'\]
