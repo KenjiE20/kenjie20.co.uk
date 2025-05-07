@@ -1,12 +1,14 @@
 ---
 title: "I.P.ocalypse"
-date: "2011-02-02"
+date: "2011-02-02T23:42:04+00:00"
 categories: 
   - "news"
 tags: 
   - "internet"
   - "ipv4"
   - "ipv6"
+guid: http://www.longbowslair.co.uk/?p=936
+aliases: /2011/02/i-p-ocalypse/
 ---
 
 ![](images/ipv4-duke.jpg "ipv4-duke")

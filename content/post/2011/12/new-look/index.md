@@ -1,12 +1,14 @@
 ---
 title: "New look"
-date: "2011-12-19"
+date: "2011-12-19T16:04:14+00:00"
 categories: 
   - "blog"
 tags: 
   - "theme"
   - "websites"
   - "wordpress"
+guid: http://www.longbowslair.co.uk/?p=967
+aliases: /2011/12/new-look/
 ---
 
 ..well sorta..
