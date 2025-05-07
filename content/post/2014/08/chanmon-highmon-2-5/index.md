@@ -1,6 +1,6 @@
 ---
 title: "chanmon & highmon 2.5"
-date: "2014-08-16"
+date: "2014-08-16T15:43:56+00:00"
 categories: 
   - "news"
   - "weechat"
@@ -13,6 +13,8 @@ tags:
   - "linux"
   - "scripts"
   - "weechat"
+guid: http://www.longbowslair.co.uk/?p=1038
+aliases: /2014/08/chanmon-highmon-2-5/
 ---
 
 Added clearbar command, first-run help & hints prompt, and use the date callback for more accurate output.
