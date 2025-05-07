@@ -1,6 +1,6 @@
 ---
 title: "chanmon & highmon 2.3.1"
-date: "2012-04-15"
+date: "2012-04-15T17:20:30+00:00"
 categories: 
   - "blog"
   - "news"
@@ -14,6 +14,8 @@ tags:
   - "linux"
   - "scripts"
   - "weechat"
+guid: http://www.longbowslair.co.uk/?p=982
+aliases: /2012/04/chanmon-highmon-2-3-1/
 ---
 
 Fixed colour string in bar timestamps not parsing, and some bar fixes that didn't make it from highmon to chanmon
