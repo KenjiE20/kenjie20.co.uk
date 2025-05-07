@@ -21,7 +21,7 @@ Now at this point, I might have talked about the game (not that it's really usef
 
 <!--more-->
 
-<Rant>
+&lt;Rant&gt;
 I current live in a [British post-war new town](http://en.wikipedia.org/wiki/New_towns_in_the_United_Kingdom) suburb, which means my local internet exchange, is quite literally miles away (about 2km as the crow flies). So this ludicrous notion that Steam seems to have, that everyone on-line has a 50Mbps 2ms latency connection that never ever has an issues whatsoever, makes using the service, rather challenging, hence my original dropping of it.
 
 This is a run down of my latest experience with Steam:
@@ -37,5 +37,5 @@ That last one really bugs me, okay live patching is fine for things like MMOs, b
 As it stands, on slow connections, an update happens, and I'd be locked out of my game while it downloads, which in the case of some updates that measure in the hundreds of MB, is likely to be a while. Multiple hours, if I drop everything I'm doing on-line, and let Steam takeover, days, if I stop and start it, when I have a gap, by which time, for certain titles, it's quite possible there's another update to get and the whole thing starts over. Not fun.
 
 I know this sounds quite whiny, but really, it can and really aught to be done better than this.
-</rant>
+&lt;/rant&gt;
 Well, that's that, Steam can sit for a while, until I get some free bandwidth. In the meantime, I shall go do [something constructive](https://sourceforge.net/projects/supytweet/).

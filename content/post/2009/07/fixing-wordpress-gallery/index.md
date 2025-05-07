@@ -103,7 +103,7 @@ Here you want to change;
 `$output .= '<br style="clear: both" />';`
 so that it reads
 `$output .= '<br />';`
-Note; you should leave the second <br> tag alone otherwise any text after the gallery might slot into any space left in the last row.
+Note; you should leave the second &lt;br&gt; tag alone otherwise any text after the gallery might slot into any space left in the last row.
 That's it for fixing that particular niggle, easy huh?
 Still looks a bit funky? Scroll up a bit till you reach around line 660 and look for:
 
