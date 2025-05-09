@@ -2,7 +2,7 @@
 title: "Need For Speed: Most Wanted"
 date: "2005-11-29T01:00:00+00:00"
 guid: http://eddie/wordpress/?p=29
-url: /reviews/need-for-speed-most-wanted/
+aliases: /reviews/need-for-speed-most-wanted/
 ---
 
 For those that don’t know, driving games are easily one of my favorite genre’s, and the Need For Speed series has always been one of the defining games, esp. for the PC.

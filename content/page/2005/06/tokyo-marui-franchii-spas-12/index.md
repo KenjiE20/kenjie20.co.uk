@@ -3,7 +3,7 @@ title: "Tokyo Marui Franchii SPAS 12"
 date: "2005-06-01T02:03:00+00:00"
 author: Ingo_Sleeps
 guid: http://eddie/wordpress/?p=28
-url: /reviews/tokyo-marui-franchii-spas-12/
+aliases: /reviews/tokyo-marui-franchii-spas-12/
 ---
 
 This is a small review of TM’s SPAS 12, thats Special Purpose Automatic Shotgun, a 6mm BB Airsoft version of Franchii’s stylish and efficient assault shotgun, star of Half-Life and NewWorldOrder.
