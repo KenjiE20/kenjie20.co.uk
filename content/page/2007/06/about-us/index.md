@@ -2,7 +2,7 @@
 title: "About Us"
 date: "2007-06-10T20:41:00+00:00"
 guid: http://eddie/wordpress/?p=24
-url: /about-us/
+aliases: /about-us/
 ---
 
 The site was started with the premise of simple gaining a foothold on the web.
