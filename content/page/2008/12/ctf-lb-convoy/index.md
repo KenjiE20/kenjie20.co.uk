@@ -2,7 +2,7 @@
 title: "CTF-LB-Convoy"
 date: "2008-12-30T21:21:15+00:00"
 guid: http://www.longbowslair.co.uk/wordpress/?page_id=193
-url: /downloads/ut2004-maps/ctf-lb-convoy/
+aliases: /downloads/ut2004-maps/ctf-lb-convoy/
 ---
 
 This map has a layout similar to FacingWorlds (CTF-Face) or perhaps closer to hydro, made with the meshes for the AS-Convoy map.

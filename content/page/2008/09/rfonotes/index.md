@@ -2,7 +2,7 @@
 title: "Observations on the current state of RFO"
 date: "2008-09-03T13:43:00+00:00"
 guid: http://eddie/wordpress/?p=39
-url: /rfonotes/
+aliases: /rfonotes/
 ---
 
 First off;

@@ -3,7 +3,7 @@ title: "About Me"
 date: "2008-08-25T13:39:00+00:00"
 guid: http://eddie/wordpress/?p=37
 title: About Me
-url: /about-me/
+aliases: /about-me/
 ---
 
 ## About Me

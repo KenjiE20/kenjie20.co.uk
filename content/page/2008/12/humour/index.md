@@ -2,7 +2,7 @@
 title: "Humour"
 date: "2008-12-30T14:00:22+00:00"
 guid: http://eddie/wordpress/?page_id=93
-url: /gallery/humour/
+aliases: /gallery/humour/
 ---
 
 Various silly photo(shop)s

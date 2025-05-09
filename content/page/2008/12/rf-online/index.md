@@ -2,7 +2,7 @@
 title: "RF Online"
 date: "2008-12-31T15:05:43+00:00"
 guid: http://www.longbowslair.co.uk/wordpress/?page_id=240
-url: /gallery/screenshots/rf-online/
+aliases: /gallery/screenshots/rf-online/
 ---
 
 {{</* gallery cols="1" */>}}  
