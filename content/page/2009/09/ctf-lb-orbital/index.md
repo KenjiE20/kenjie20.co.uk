@@ -1,6 +1,8 @@
 ---
 title: "CTF-LB-Orbital"
-date: "2009-09-02"
+date: "2009-09-02T12:21:27+00:00"
+guid: http://www.longbowslair.co.uk/?page_id=779
+aliases: /downloads/ut3-maps/ctf-lb-orbital/
 ---
 
 This is still very much an alpha work in progress, and as of this moment (Sept '09) partially stalled. I say partially, as the main thing needed for this is more feedback on level layout and weapon placement. I _think_ the current layout makes for good playability, but I'm slightly biased, and have been staring at it for too long to really tell.

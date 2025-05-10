@@ -1,6 +1,8 @@
 ---
 title: "Genesis.log"
-date: "2009-01-10"
+date: "2009-01-10T20:58:12+00:00"
+guid: http://www.longbowslair.co.uk/?page_id=354
+aliases: /humour/genesis_log/
 ---
 
 I found this one day when I SSH'd into my Slackware box, always thought it was amusing;

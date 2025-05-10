@@ -1,6 +1,8 @@
 ---
 title: "Things not to say... during sex"
-date: "2009-01-07"
+date: "2009-01-07T23:52:00+00:00"
+guid: http://www.longbowslair.co.uk/?page_id=322
+aliases: /humour/an-almost-complete-list-of-things-not-to-say/things-not-to-say-during-sex/
 ---
 
 1. Oops

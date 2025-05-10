@@ -1,6 +1,8 @@
 ---
 title: "Methods for Coping with Stress"
-date: "2009-01-08"
+date: "2009-01-08T00:10:14+00:00"
+guid: http://www.longbowslair.co.uk/?page_id=331
+aliases: /humour/methods-for-coping-with-stress/
 ---
 
 1. Jam miniature marshmallows up your nose and sneeze them out. See how many you can do at a time.

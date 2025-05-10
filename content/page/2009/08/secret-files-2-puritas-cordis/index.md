@@ -1,6 +1,8 @@
 ---
 title: "Secret Files 2: Puritas Cordis"
-date: "2009-08-02"
+date: "2009-08-02T17:11:05+00:00"
+guid: http://www.longbowslair.co.uk/?page_id=646
+aliases: /reviews/secret-files-2-puritas-cordis/
 ---
 
 Nina Kalenkow returns in a new point-and-click adventure game; _Secret Files 2: Puritas Cordis_,The sequel to the award winning adventure hit _Secret Files Tunguska_. If you're a fan of proper adventure games, you won't want to miss this.
