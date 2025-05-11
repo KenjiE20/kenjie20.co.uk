@@ -2,7 +2,7 @@
 title: "About"
 date: "2016-05-02T17:47:19+00:00"
 guid: http://www.longbowslair.co.uk/?page_id=1134
-url: /about/
+aliases: /about/
 ---
 
 ## About Me
