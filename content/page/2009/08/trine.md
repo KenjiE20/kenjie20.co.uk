@@ -3,7 +3,7 @@ title: "Trine"
 date: "2009-08-13T00:18:02+00:00"
 draft: "true"
 guid: http://www.longbowslair.co.uk/?page_id=750
-aliases: /
+#aliases: /
 ---
 _Trine_ is a side scrolling platformer, given a thoroughly modern twist, with fantastic visuals. The use of physics, gives an added angle to gameplay as you can solve each level in a multitude of ways.
 
