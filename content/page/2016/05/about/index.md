@@ -1,13 +1,16 @@
 ---
 title: "About"
-date: "2016-05-02"
+date: "2016-05-02T17:47:19+00:00"
+guid: http://www.longbowslair.co.uk/?page_id=1134
+url: /about/
 ---
 
 ## About Me
 
 KenjiE20 (aka Longbow)
 
-Dabbler of all things techy, nerdy (and pony). Chronic procrastinator.
+Dabbler of all things techy, nerdy (and pony).
+Chronic procrastinator.
 
 Various Interests;
 
