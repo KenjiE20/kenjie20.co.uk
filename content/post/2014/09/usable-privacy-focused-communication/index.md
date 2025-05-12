@@ -1,6 +1,7 @@
 ---
 title: "Usable Privacy Focused Communication"
 date: "2014-09-16T21:36:52+00:00"
+lastmod: "2016-05-24T21:21:30+01:00"
 categories: 
   - "news"
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "chanmon & highmon 2.3.1"
 date: "2012-04-15T17:20:30+00:00"
+lastmod: "2016-05-24T21:23:09+01:00"
 categories: 
   - "blog"
   - "news"

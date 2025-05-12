@@ -1,6 +1,7 @@
 ---
 title: "Secret Files 2: Puritas Cordis"
 date: "2009-08-02T17:11:05+00:00"
+lastmod: "2018-10-23T14:27:28+01:00"
 guid: http://www.longbowslair.co.uk/?page_id=646
 aliases: /reviews/secret-files-2-puritas-cordis/
 ---

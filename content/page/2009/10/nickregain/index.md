@@ -1,6 +1,7 @@
 ---
 title: "nickregain"
 date: "2009-10-19T14:36:01+00:00"
+lastmod: "2010-12-13T18:24:55+00:00"
 guid: http://www.longbowslair.co.uk/?page_id=806
 aliases: /downloads/weechat-scripts/nickregain/
 ---

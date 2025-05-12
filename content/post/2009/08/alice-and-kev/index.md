@@ -1,6 +1,7 @@
 ---
 title: "Alice and Kev"
 date: "2009-08-01T12:52:29+00:00"
+lastmod: "2009-08-03T23:02:31+01:00"
 categories: 
   - "news"
 tags: 

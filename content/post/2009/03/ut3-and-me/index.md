@@ -1,6 +1,7 @@
 ---
 title: "UT3 and me"
 date: "2009-03-23T14:31:48+00:00"
+lastmod: "2016-05-24T22:38:23+01:00"
 categories: 
   - "news"
 tags: 

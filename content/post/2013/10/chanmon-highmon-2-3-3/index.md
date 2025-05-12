@@ -1,6 +1,7 @@
 ---
 title: "chanmon & highmon 2.3.3"
 date: "2013-10-07T16:17:06+00:00"
+lastmod: "2016-05-24T21:22:35+01:00"
 categories: 
   - "news"
   - "weechat"

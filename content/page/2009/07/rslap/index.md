@@ -1,6 +1,7 @@
 ---
 title: "rslap"
 date: "2009-07-21T13:57:41+00:00"
+lastmod: "2010-12-30T20:39:49+00:00"
 guid: http://www.longbowslair.co.uk/?page_id=485
 aliases: /downloads/weechat-scripts/rslap/
 ---

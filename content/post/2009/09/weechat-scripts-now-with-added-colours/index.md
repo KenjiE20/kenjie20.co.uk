@@ -1,6 +1,7 @@
 ---
 title: "Weechat scripts, now with added colours"
 date: "2009-09-07T16:42:11+00:00"
+lastmod: "2016-05-24T22:32:00+01:00"
 categories: 
   - "weechat"
 tags: 

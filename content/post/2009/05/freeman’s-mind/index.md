@@ -1,6 +1,7 @@
 ---
 title: "Freeman’s Mind"
 date: "2009-05-06T16:07:08+00:00"
+lastmod: "2009-12-19T13:20:30+00:00"
 categories: 
   - "news"
   - "videos"

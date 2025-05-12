@@ -1,13 +1,13 @@
 ---
 title: "Back up and running"
 date: "2007-06-10T21:15:00+00:00"
+lastmod: "2009-01-03 22:19:47+00:00"
 categories: 
   - "news"
 tags: 
   - "websites"
 guid: http://eddie/wordpress/?p=25
 aliases: /2007/06/back-up-and-running/
-lastmod: "2007-06-10T21:15:00+00:00"
 ---
 
 .... well limping at any rate

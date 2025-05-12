@@ -1,6 +1,7 @@
 ---
 title: "Gone all 2007"
 date: "2010-05-13T11:45:04+00:00"
+lastmod: "2010-05-13T12:46:01+01:00"
 categories: 
   - "blog"
 tags: 

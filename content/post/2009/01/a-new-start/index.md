@@ -1,6 +1,7 @@
 ---
 title: "A New Start"
 date: "2009-01-25T19:19:38+00:00"
+lastmod: "2016-05-24T22:45:40+01:00"
 categories: 
   - "openttd"
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "Highmon"
 date: "2009-08-02T23:47:03+00:00"
+lastmod: "2014-08-16T16:42:24+01:00"
 guid: http://www.longbowslair.co.uk/?page_id=722
 aliases: /downloads/weechat-scripts/highmon/
 ---

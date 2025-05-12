@@ -1,6 +1,7 @@
 ---
 title: "More of this please, thanks"
 date: "2009-07-24T12:41:28+00:00"
+lastmod: "2010-05-13T03:19:46+01:00"
 categories: 
   - "blog"
   - "news"

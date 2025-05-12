@@ -1,6 +1,7 @@
 ---
 title: "Halo Legends"
 date: "2009-07-24T17:02:00+00:00"
+lastmod: "2009-08-01T13:53:50+01:00"
 categories: 
   - "news"
   - "videos"

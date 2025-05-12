@@ -1,6 +1,7 @@
 ---
 title: "chan/highmon updates"
 date: "2010-08-27T16:05:32+00:00"
+lastmod: "2016-05-24T22:24:14+01:00"
 categories: 
   - "news"
   - "weechat"

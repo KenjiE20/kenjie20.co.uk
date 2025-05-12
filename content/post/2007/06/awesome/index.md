@@ -1,6 +1,7 @@
 ---
 title: "Awesome"
 date: "2007-06-11T12:39:00+00:00"
+lastmod: "2009-01-03T22:17:46+00:00"
 categories: 
   - "news"
 tags: 

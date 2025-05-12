@@ -1,6 +1,7 @@
 ---
 title: "GitHub"
 date: "2012-04-18T15:45:02+00:00"
+lastmod: "2012-04-18T16:45:47+01:00"
 categories: 
   - "blog"
   - "news"

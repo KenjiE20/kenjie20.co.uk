@@ -1,6 +1,7 @@
 ---
 title: "Change of strategy"
 date: "2008-04-10T22:48:00+00:00"
+lastmod: "2016-05-24T22:46:54+01:00"
 categories: 
   - "news"
 tags: 

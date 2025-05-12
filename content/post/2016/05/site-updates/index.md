@@ -1,6 +1,7 @@
 ---
 title: "Site Updates"
 date: "2016-05-02T15:38:32+00:00"
+lastmod: "2016-05-02T16:39:07+01:00"
 categories: 
   - "blog"
   - "news"

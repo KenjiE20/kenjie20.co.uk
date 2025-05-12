@@ -1,6 +1,7 @@
 ---
 title: "Chanmon"
 date: "2009-07-21T13:58:47+00:00"
+lastmod: "2014-08-16T16:42:23+01:00"
 guid: http://www.longbowslair.co.uk/?page_id=458
 aliases: /downloads/weechat-scripts/chanmon/
 ---

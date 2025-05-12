@@ -1,6 +1,7 @@
 ---
 title: "Small bug fix to chanmon"
 date: "2010-09-20T17:16:32+00:00"
+lastmod: "2016-05-24T22:15:12+01:00"
 categories: 
   - "news"
   - "weechat"

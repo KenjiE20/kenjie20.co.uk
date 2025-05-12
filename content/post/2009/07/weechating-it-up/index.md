@@ -1,6 +1,7 @@
 ---
 title: "Weechat'ing it up"
 date: "2009-07-14T20:00:26+00:00"
+lastmod: "2016-05-24T22:37:24+01:00"
 categories: 
   - "weechat"
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "Weechat: Chanmon 1.3.3 & rslap 1.0"
 date: "2009-07-21T14:04:05+00:00"
+lastmod: "2016-05-24T22:35:49+01:00"
 categories: 
   - "weechat"
 tags: 

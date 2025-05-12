@@ -1,6 +1,7 @@
 ---
 title: "Weechat: nickregain"
 date: "2009-10-19T17:02:40+00:00"
+lastmod: "2016-05-24T22:30:59+01:00"
 categories: 
   - "weechat"
 tags: 

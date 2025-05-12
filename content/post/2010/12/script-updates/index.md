@@ -1,6 +1,7 @@
 ---
 title: "Script updates"
 date: "2010-12-13T18:25:42+00:00"
+lastmod: "2016-05-24T22:14:39+01:00"
 categories: 
   - "news"
   - "weechat"

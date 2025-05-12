@@ -1,6 +1,7 @@
 ---
 title: "Slight rearrange"
 date: "2009-07-29T23:45:28+00:00"
+lastmod: "2016-09-28T17:39:00+01:00"
 categories: 
   - "news"
   - "weechat"

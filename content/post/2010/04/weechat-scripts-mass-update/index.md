@@ -1,6 +1,7 @@
 ---
 title: "Weechat scripts mass update"
 date: "2010-04-25T15:38:40+00:00"
+lastmod: "2016-05-24T22:25:26+01:00"
 categories: 
   - "news"
   - "weechat"

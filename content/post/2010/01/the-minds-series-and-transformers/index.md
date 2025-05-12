@@ -1,6 +1,7 @@
 ---
 title: "The Mind's series and Transformers"
 date: "2010-01-20T23:44:09+00:00"
+lastmod: "2016-05-24T22:29:06+01:00"
 categories: 
   - "blog"
   - "videos"

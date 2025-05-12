@@ -1,6 +1,7 @@
 ---
 title: "Chanmon & Highmon v1.7"
 date: "2010-01-25T01:17:33+00:00"
+lastmod: "2016-05-24T22:25:45+01:00"
 categories: 
   - "news"
   - "weechat"

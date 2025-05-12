@@ -1,6 +1,7 @@
 ---
 title: "Tell me something I didn't know"
 date: "2008-11-27T17:44:00+00:00"
+lastmod: "2008-12-30T22:15:00+00:00"
 categories: 
   - "news"
 tags: 

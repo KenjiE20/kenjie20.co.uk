@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: "2016-05-02T17:47:19+00:00"
+lastmod: "2016-05-24T22:47:41+01:00"
 guid: http://www.longbowslair.co.uk/?page_id=1134
 aliases: /about/
 ---

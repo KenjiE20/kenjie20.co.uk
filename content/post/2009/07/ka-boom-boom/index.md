@@ -1,6 +1,7 @@
 ---
 title: "Ka-boom-boom"
 date: "2009-07-16T13:22:23+00:00"
+lastmod: "2009-07-21T00:09:25+01:00"
 categories: 
   - "news"
 tags: 

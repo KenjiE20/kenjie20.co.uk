@@ -1,6 +1,7 @@
 ---
 title: "Maintain your level of insanity"
 date: "2009-01-08T00:11:18+00:00"
+lastmod: "2009-01-08T00:21:58+00:00"
 guid: http://www.longbowslair.co.uk/maintain-your-level-of-insanity-while-driving-others-around-you-insane/
 aliases: /humour/maintain-your-level-of-insanity/
 ---

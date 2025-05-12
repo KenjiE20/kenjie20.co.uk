@@ -1,6 +1,7 @@
 ---
 title: "Weechat: nickregain bugfix"
 date: "2009-10-27T00:37:50+00:00"
+lastmod: "2016-05-24T22:30:35+01:00"
 categories: 
   - "weechat"
 tags: 

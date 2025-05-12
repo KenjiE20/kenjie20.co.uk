@@ -1,6 +1,7 @@
 ---
 title: "Trine"
 date: "2009-08-13T00:18:02+00:00"
+lastmod: "2016-05-24T22:50:21+01:00"
 draft: "true"
 guid: http://www.longbowslair.co.uk/?page_id=750
 #aliases: /

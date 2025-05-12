@@ -1,6 +1,7 @@
 ---
 title: "EVE stuff"
 date: "2011-02-13T22:57:22+00:00"
+lastmod: "2016-05-24T21:26:28+01:00"
 categories: 
   - "blog"
 tags: 

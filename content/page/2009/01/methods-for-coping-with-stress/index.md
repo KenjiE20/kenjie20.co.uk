@@ -1,6 +1,7 @@
 ---
 title: "Methods for Coping with Stress"
 date: "2009-01-08T00:10:14+00:00"
+lastmod: "2009-01-08T00:15:34+00:00"
 guid: http://www.longbowslair.co.uk/?page_id=331
 aliases: /humour/methods-for-coping-with-stress/
 ---

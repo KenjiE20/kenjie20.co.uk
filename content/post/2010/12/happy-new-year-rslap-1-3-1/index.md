@@ -1,6 +1,7 @@
 ---
 title: "Happy New Year & rslap 1.3.1"
 date: "2010-12-30T20:38:54+00:00"
+lastmod: "2016-05-24T22:13:59+01:00"
 categories: 
   - "news"
   - "weechat"

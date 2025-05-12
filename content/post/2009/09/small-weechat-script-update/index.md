@@ -1,6 +1,7 @@
 ---
 title: "Small Weechat script update"
 date: "2009-09-02T11:40:10+00:00"
+lastmod: "2016-05-24T22:32:42+01:00"
 categories: 
   - "weechat"
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "Japan 2016 Photo Album"
 date: "2016-05-27T22:58:58+00:00"
+lastmod: "2018-10-19T14:31:15+01:00"
 categories: 
   - "blog"
   - "news"

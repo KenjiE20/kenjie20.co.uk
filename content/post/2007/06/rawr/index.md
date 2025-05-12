@@ -1,6 +1,7 @@
 ---
 title: "Rawr"
 date: "2007-06-11T12:35:00+00:00"
+lastmod: "2009-01-03T22:19:12+00:00"
 categories: 
   - "news"
 tags: 

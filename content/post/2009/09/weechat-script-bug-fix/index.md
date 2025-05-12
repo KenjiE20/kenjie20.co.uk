@@ -1,6 +1,7 @@
 ---
 title: "Weechat script bug fix"
 date: "2009-09-05T22:40:50+00:00"
+lastmod: "2016-05-24T22:32:23+01:00"
 categories: 
   - "weechat"
 tags: 

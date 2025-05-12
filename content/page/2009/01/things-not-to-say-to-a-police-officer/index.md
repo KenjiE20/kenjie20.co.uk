@@ -1,6 +1,7 @@
 ---
 title: "Things not to say... to a police officer"
 date: "2009-01-08T00:07:47+00:00"
+lastmod: "2009-01-08T00:20:03+00:00"
 guid: http://www.longbowslair.co.uk/?page_id=327
 aliases: /humour/an-almost-complete-list-of-things-not-to-say/things-not-to-say-to-a-police-officer/
 ---

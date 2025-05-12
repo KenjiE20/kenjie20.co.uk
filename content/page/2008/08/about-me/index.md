@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 date: "2008-08-25T13:39:00+00:00"
+lastmod: "2016-05-02T18:41:20+01:00"
 guid: http://eddie/wordpress/?p=37
 title: About Me
 aliases: /about-me/

@@ -1,6 +1,7 @@
 ---
 title: "Genesis.log"
 date: "2009-01-10T20:58:12+00:00"
+lastmod: "2009-07-31T23:11:49+01:00"
 guid: http://www.longbowslair.co.uk/?page_id=354
 aliases: /humour/genesis_log/
 ---
