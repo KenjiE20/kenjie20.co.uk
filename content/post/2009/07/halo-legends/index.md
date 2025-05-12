@@ -1,6 +1,5 @@
 ---
 title: "Halo Legends"
-date: "2009-07-24"
 date: "2009-07-24T17:02:00+00:00"
 categories: 
   - "news"

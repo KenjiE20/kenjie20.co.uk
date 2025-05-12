@@ -1,6 +1,5 @@
 ---
 title: "Ka-boom-boom"
-date: "2009-07-16"
 date: "2009-07-16T13:22:23+00:00"
 categories: 
   - "news"
