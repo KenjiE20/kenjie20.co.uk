@@ -68,7 +68,7 @@ Optional:
 ```text
 /window splith 70 –> open the chanmon buffer
 /set weechat.bar.status.conditions "${window.buffer.full_name} != perl.chanmon"
-/set weechat.bar.input.conditions "${window.buffer.full_name} != perl.chanmon".bar.status.conditions “active”
+/set weechat.bar.input.conditions "${window.buffer.full_name} != perl.chanmon".bar.status.conditions "active"
 ```
 
 History:
