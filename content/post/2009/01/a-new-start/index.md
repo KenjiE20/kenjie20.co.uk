@@ -12,15 +12,18 @@ guid: http://www.longbowslair.co.uk/?p=394
 aliases: /2009/01/a-new-start/
 ---
 
-So I decided to start up a new OpenTTD game, on a 128×512 map. Using the OpenTTD nightly, starting with r15260.  Main modifiers are;
+So I decided to start up a new OpenTTD game, on a 128×512 map. Using the OpenTTD nightly, starting with r15260.  
+Main modifiers are;
 
 - UK Renewal Set
 - Reduced Breakdowns
 - x4 weight multiplier for freight
 - A full GRF list can be viewed behind the Read More link
 
-The Industry Map; [![unnamed-1st-jan-1950-1](images/unnamed-1st-jan-19501-300x225.png "unnamed-1st-jan-1950-1")](/wp-content/uploads/2009/01/unnamed-1st-jan-19501.png)
-The height map; [![unnamed-1st-jan-1950-2](images/unnamed-1st-jan-19502-300x225.png "unnamed-1st-jan-1950-2")](/wp-content/uploads/2009/01/unnamed-1st-jan-19502.png)
+The Industry Map;  
+[![unnamed-1st-jan-1950-1](images/unnamed-1st-jan-19501-300x225.png "unnamed-1st-jan-1950-1")](/wp-content/uploads/2009/01/unnamed-1st-jan-19501.png)  
+The height map;  
+[![unnamed-1st-jan-1950-2](images/unnamed-1st-jan-19502-300x225.png "unnamed-1st-jan-1950-2")](/wp-content/uploads/2009/01/unnamed-1st-jan-19502.png)
 
 In 1950 a small start-up makes it’s humble beginnings on the far southern edge of the region. A temporary maintenance depot is set up and a 2-8-0 Freight Engine raked up for the short jump to the local power station.
 

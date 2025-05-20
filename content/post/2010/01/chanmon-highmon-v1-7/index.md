@@ -18,8 +18,8 @@ guid: http://www.longbowslair.co.uk/?p=883
 aliases: /2010/01/chanmon-highmon-v1-7/
 ---
 
-New versions of highmon and chanmon, version 1.7.
-This version adds a customisable nick prefix and suffix to both
+New versions of highmon and chanmon, version 1.7.  
+This version adds a customisable nick prefix and suffix to both  
 And makes Chanmon's dynamic mode, split window aware.
 
 As always, find more info in the [Downloads](/downloads/) section or via weechat/weeget.

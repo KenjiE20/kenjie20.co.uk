@@ -27,9 +27,9 @@ The holy grail for mass adoption of encrypted chat and email, but I'm not going 
 
 EFF recently put up their [Secure Messaging Scorecard](https://www.eff.org/secure-messaging-scorecard), detailing various privacy elements of messengers.
 
-\[Update; 2014-09-17 - Appear.in\]
-\[Update; 2014-09-18 - Bleep - Open Alpha\]
-\[Update; 2014-10-07 - Bleep patch, Telegram, FireChat\]
+\[Update; 2014-09-17 - Appear.in\]  
+\[Update; 2014-09-18 - Bleep - Open Alpha\]  
+\[Update; 2014-10-07 - Bleep patch, Telegram, FireChat\]  
 \[Update; 2014-11-07 - EFF, surespot\]
 
 <!--more-->
@@ -109,5 +109,5 @@ So in no particular order, here's a summary of interesting things I've come acro
 ### Other
 
 - [Appear.in](https://appear.in/) - [![appear_in_–_one_click_video_conversations](images/appear_in_–_one_click_video_conversations-150x150.jpg)](/wp-content/uploads/2014/09/appear_in_–_one_click_video_conversations.jpg) Slightly different approach to a Skype replacement, Appear.in is an HTML5 cloud solution (and recently released an iOS app) for group video/voice chat. Appear.in runs peer-to-peer, and encrypted, firewalls permitting.
-- [Mail-pile](https://www.mailpile.is/) - [![Mailpile-inbox](images/Mailpile-inbox-150x150.png)](/wp-content/uploads/2014/09/Mailpile-inbox.png) Mailpile is an interesting take on e-mail. It installs like other email clients, but provides a G-mail like web UI. It pulls via IMAP from any email account you give it, and has encryption tools built right in, as well as local search indexing.
+- [Mail-pile](https://www.mailpile.is/) - [![Mailpile-inbox](images/Mailpile-inbox-150x150.png)](/wp-content/uploads/2014/09/Mailpile-inbox.png) Mailpile is an interesting take on e-mail. It installs like other email clients, but provides a G-mail like web UI. It pulls via IMAP from any email account you give it, and has encryption tools built right in, as well as local search indexing.  
   Open-source and currently in beta, available for Windows and Mac (Linux packages to come)

@@ -8,270 +8,273 @@ aliases: /humour/genesis_log/
 
 I found this one day when I SSH'd into my Slackware box, always thought it was amusing;
 
-`Creation God's genesis.log from His UNIX machine`
+```
+Creation
+God's genesis.log from His UNIX machine
 
-`#In the beginning was the computer. And God said`
+#In the beginning was the computer. And God said
 
-`:Let there be light!`
+:Let there be light!
 
-`#You have not signed on.`
+#You have not signed on.
 
-`:God.`
+:God.
 
-`#Enter user password.`
+#Enter user password.
 
-`:Omniscient.`
+:Omniscient.
 
-`#Password Incorrect. Try again!`
+#Password Incorrect. Try again!
 
-`:Omnipotent.`
+:Omnipotent.
 
-`#Password Incorrect. Try again!`
+#Password Incorrect. Try again!
 
-`:Technocrat.`
+:Technocrat.
 
-`#And God signed on 12:01 a.m., Sunday, March 1.`
+#And God signed on 12:01 a.m., Sunday, March 1.
 
-`:Let there be light!`
+:Let there be light!
 
-`#Unrecognizable command. Try again!`
+#Unrecognizable command. Try again!
 
-`:Create light.`
+:Create light.
 
-`#Done.`
+#Done.
 
-`:Run heaven and earth.`
+:Run heaven and earth.
 
-`#And God created Day and Night. And God saw there were 0 errors.`
+#And God created Day and Night. And God saw there were 0 errors.
 
-`#And God signed off at 12:02 a.m., Sunday, March 1.`
+#And God signed off at 12:02 a.m., Sunday, March 1.
 
-`#And God signed on at 12:00 a.m., Monday, March 2.`
+#And God signed on at 12:00 a.m., Monday, March 2.
 
-`:Let there be a firmament in the midst of the water and...`
+:Let there be a firmament in the midst of the water and...
 
-`#Unrecognizable command! Try again!`
+#Unrecognizable command! Try again!
 
-`:Create firmament.`
+:Create firmament.
 
-`#Done.`
+#Done.
 
-`:Run firmament.`
+:Run firmament.
 
-`#Done.`
+#Done.
 
-`#And God divided the waters. And God saw there were 0 errors.`
+#And God divided the waters. And God saw there were 0 errors.
 
-`#And God signed off at 12:01 a.m., Monday, March 2.`
+#And God signed off at 12:01 a.m., Monday, March 2.
 
-`#And God signed on at 12:00 a.m., Tuesday, March 3.`
+#And God signed on at 12:00 a.m., Tuesday, March 3.
 
-`:Let the waters under heaven be gathered together unto one place and let the dry land appear and...`
+:Let the waters under heaven be gathered together unto one place and let the dry land appear and...
 
-`#Too many characters in string specification! Try again!`
+#Too many characters in string specification! Try again!
 
-`:Create dryland.`
+:Create dryland.
 
-`#Done.`
+#Done.
 
-`:Run dryland.`
+:Run dryland.
 
-`#And God created Earth and Seas. And God saw there were 0 errors.`
+#And God created Earth and Seas. And God saw there were 0 errors.
 
-`#And God signed off at 12:01 a.m., Tuesday, March 3.`
+#And God signed off at 12:01 a.m., Tuesday, March 3.
 
-`#And God signed on at 12:00 a.m., Wednesday, March 4.`
+#And God signed on at 12:00 a.m., Wednesday, March 4.
 
-`:Create lights in the firmament to divide the day from the night.`
+:Create lights in the firmament to divide the day from the night.
 
-`#Unspecified type. Try again!`
+#Unspecified type. Try again!
 
-`:Create sunmoonstars.`
+:Create sunmoonstars.
 
-`#And God created Sun, Moon, Stars. And God saw there were 0 errors.`
+#And God created Sun, Moon, Stars. And God saw there were 0 errors.
 
-`#And God signed off at 12:01 a.m., Wednesday, March 4.`
+#And God signed off at 12:01 a.m., Wednesday, March 4.
 
-`#And God signed on at 12:00 a.m., Thursday, March 5.`
+#And God signed on at 12:00 a.m., Thursday, March 5.
 
-`:Create fish.`
+:Create fish.
 
-`#Done.`
+#Done.
 
-`:Create fowl.`
+:Create fowl.
 
-`#Done.`
+#Done.
 
-`:Run fish'nfowl.`
+:Run fish'nfowl.
 
-`#And God created the great sea monsters and every living creature that creepeth wherewith the waters swarmed after its kind and every winged fowl after its kind.`
+#And God created the great sea monsters and every living creature that creepeth wherewith the waters swarmed after its kind and every winged fowl after its kind.
 
-`#And God saw there were 0 errors.`
+#And God saw there were 0 errors.
 
-`#And God signed off at 12:01 a.m., Thursday, March 5.`
+#And God signed off at 12:01 a.m., Thursday, March 5.
 
-`#And God signed on at 12:00 a.m., Friday, March 6.`
+#And God signed on at 12:00 a.m., Friday, March 6.
 
-`:Create cattle.`
+:Create cattle.
 
-`#Done.`
+#Done.
 
-`:Create creepy things.`
+:Create creepy things.
 
-`#Done.`
+#Done.
 
-`:Now let us make man in our image.`
+:Now let us make man in our image.
 
-`#Unspecified type! Try again!`
+#Unspecified type! Try again!
 
-`:Create man.`
+:Create man.
 
-`#Done!`
+#Done!
 
-`:Be fruitful and multiply and replenish the earth and subdue it and have dominion over the fish of the seaand over the fowl of the air and over every living thing that creepeth upon the earth.`
+:Be fruitful and multiply and replenish the earth and subdue it and have dominion over the fish of the seaand over the fowl of the air and over every living thing that creepeth upon the earth.
 
-`#Too many command operands! Try again.`
+#Too many command operands! Try again.
 
-`:Run multiplication.`
+:Run multiplication.
 
-`#Execution terminated. 6 errors.`
+#Execution terminated. 6 errors.
 
-`:Insert breath.`
+:Insert breath.
 
-`#O.K.`
+#O.K.
 
-`:Run multiplication.`
+:Run multiplication.
 
-`#Execution terminated. 5 errors.`
+#Execution terminated. 5 errors.
 
-`:Move man to Garden of Eden.`
+:Move man to Garden of Eden.
 
-`#File Garden of Eden does not exist.`
+#File Garden of Eden does not exist.
 
-`:Create Gard.En.`
+:Create Gard.En.
 
-`#Done.`
+#Done.
 
-`:Move man to Gard.En.`
+:Move man to Gard.En.
 
-`#O.K.`
+#O.K.
 
-`:Run multiplication.`
+:Run multiplication.
 
-`#Execution terminated. 4 errors.`
+#Execution terminated. 4 errors.
 
-`:Copy woman from man.`
+:Copy woman from man.
 
-`#O.K.`
+#O.K.
 
-`:Run multiplication.`
+:Run multiplication.
 
-`#Execution terminated. 3 errors.`
+#Execution terminated. 3 errors.
 
-`:Insert woman into man.`
+:Insert woman into man.
 
-`#Illegal parameters. Try again!`
+#Illegal parameters. Try again!
 
-`:Insert man into woman.`
+:Insert man into woman.
 
-`#O.K.`
+#O.K.
 
-`:Run multiplication.`
+:Run multiplication.
 
-`#Execution terminated. 2 errors.`
+#Execution terminated. 2 errors.
 
-`:Create desire.`
+:Create desire.
 
-`#Done.`
+#Done.
 
-`:Run multiplication.`
+:Run multiplication.
 
-`#And God saw man'nwoman being fruitful and multiplying in the Gard.En.`
+#And God saw man'nwoman being fruitful and multiplying in the Gard.En.
 
-`#Warning: No time limit on this run. 1 errors.`
+#Warning: No time limit on this run. 1 errors.
 
-`:Create freewill.`
+:Create freewill.
 
-`#Done.`
+#Done.
 
-`:Run freewill.`
+:Run freewill.
 
-`#And God saw man'nwoman being fruitful and multiplying in the Gard.En.`
+#And God saw man'nwoman being fruitful and multiplying in the Gard.En.
 
-`#Warning: No time limit on this run. 1 errors.`
+#Warning: No time limit on this run. 1 errors.
 
-`:Undo desire.`
+:Undo desire.
 
-`#Desire cannot be undone once freewill is created.`
+#Desire cannot be undone once freewill is created.
 
-`: Destroy freewill.`
+: Destroy freewill.
 
-`#Freewill is an inaccessible file and cannot be destroyed.`
+#Freewill is an inaccessible file and cannot be destroyed.
 
-`#Enter replacement, cancel, or ask for help.`
+#Enter replacement, cancel, or ask for help.
 
-`:Help!`
+:Help!
 
-`#Desire cannot be undone once freewill is created.`
+#Desire cannot be undone once freewill is created.
 
-`#Freewill is an inaccessible file and cannot be destroyed.`
+#Freewill is an inaccessible file and cannot be destroyed.
 
-`#Enter replacement, cancel, or ask for help.`
+#Enter replacement, cancel, or ask for help.
 
-`:Create Treeofknowledge.`
+:Create Treeofknowledge.
 
-`#And God saw man'nwoman being fruitful and multiplying in the Gard.En.`
+#And God saw man'nwoman being fruitful and multiplying in the Gard.En.
 
-`#Warning: No time limit on this run. 1 errors.`
+#Warning: No time limit on this run. 1 errors.
 
-`:Create good'nevil.`
+:Create good'nevil.
 
-`#Done.`
+#Done.
 
-`:Activate evil.`
+:Activate evil.
 
-`#And God saw he had created shame.`
+#And God saw he had created shame.
 
-`#Warning: System error in sector E95. Man'nwoman not in Gard.En.`
+#Warning: System error in sector E95. Man'nwoman not in Gard.En.
 
-`#1 errors.`
+#1 errors.
 
-`:Scan Gard.En. for man'nwoman.`
+:Scan Gard.En. for man'nwoman.
 
-`#Man'nwoman cannot be located. Try again!`
+#Man'nwoman cannot be located. Try again!
 
-`:Search Gard.En. for man'nwoman.`
+:Search Gard.En. for man'nwoman.
 
-`#Search failed.`
+#Search failed.
 
-`: Delete shame.`
+: Delete shame.
 
-`#Shame cannot be deleted once evil has been activated.`
+#Shame cannot be deleted once evil has been activated.
 
-`: Destroy freewill.`
+: Destroy freewill.
 
-`#Freewill is an inaccessible file and cannot be destroyed.`
+#Freewill is an inaccessible file and cannot be destroyed.
 
-`:Stop!`
+:Stop!
 
-`#Unrecognizable command. Try again!`
+#Unrecognizable command. Try again!
 
-`:Break`
+:Break
 
-`:Break`
+:Break
 
-`:Break`
+:Break
 
-`#ATTENTION ALL USERS: SERVER GOING DOWN IN 5 MINS FOR REGULAR DAY OF MAINTENANCE AND REST, PLEASE SIGN OFF NOW.`
+#ATTENTION ALL USERS: SERVER GOING DOWN IN 5 MINS FOR REGULAR DAY OF MAINTENANCE AND REST, PLEASE SIGN OFF NOW.
 
-`:Create new world.`
+:Create new world.
 
-`#You have exceeded your allotted file space. You must destroy old files before new ones can be created.`
+#You have exceeded your allotted file space. You must destroy old files before new ones can be created.
 
-`: Destroy earth.`
+: Destroy earth.
 
-`#Destroy earth. Please confirm.`
+#Destroy earth. Please confirm.
 
-`#SERVER SHUTTING DOWN. SERVICES WILL RESUME ON SUNDAY MARCH 8 AT 6:00 A.M. YOU MUST SIGN OFF NOW!`
+#SERVER SHUTTING DOWN. SERVICES WILL RESUME ON SUNDAY MARCH 8 AT 6:00 A.M. YOU MUST SIGN OFF NOW!
 
-`#And God signed off at 11:59 p.m., Friday, March 6.`
+#And God signed off at 11:59 p.m., Friday, March 6.
+```
