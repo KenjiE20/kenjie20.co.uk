@@ -22,7 +22,7 @@ Now at this point, I might have talked about the game (not that it's really usef
 
 <!--more-->
 
-&lt;Rant&gt;
+\<Rant\>  
 I current live in a [British post-war new town](http://en.wikipedia.org/wiki/New_towns_in_the_United_Kingdom) suburb, which means my local internet exchange, is quite literally miles away (about 2km as the crow flies). So this ludicrous notion that Steam seems to have, that everyone on-line has a 50Mbps 2ms latency connection that never ever has an issues whatsoever, makes using the service, rather challenging, hence my original dropping of it.
 
 This is a run down of my latest experience with Steam:  
