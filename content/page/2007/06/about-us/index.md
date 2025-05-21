@@ -8,7 +8,7 @@ aliases: /about-us/
 The site was started with the premise of simple gaining a foothold on the web.
 It has grown and changed vastly since it's first inception;
 
-<table border="0" align="center"><tbody><tr><td>
+{{< rawhtml >}}<table border="0" align="center"><tbody><tr><td>{{< /rawhtml >}}
 **Site history**
 
 There are a couple of ways to count the versions of the site but this is the one I prefer;
@@ -30,8 +30,8 @@ It was dubbed version 4.0 of the site
 So a new theme and a slightly different feel of content is probably in order.
 
 \-\- Longbow (aka KenjiE20)
-</td></tr>
-<tr><td>
+{{< rawhtml >}}</td></tr>
+<tr><td>{{< /rawhtml >}}
 You can link to us using the following code;
 
 ```html
@@ -41,13 +41,13 @@ You can link to us using the following code;
 
 To produce;  
 <a href="http://www.longbowslair.co.uk" target="_blank"><img src="images/linktous.png" border="0" alt=""></a>
-</td></tr></tbody></table>
+{{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
 
 ***
 
 **Website Staffers**
 
-<table border="0" align="center"><tbody><tr><td>
+{{< rawhtml >}}<table border="0" align="center"><tbody><tr><td>{{< /rawhtml >}}
 **Name:** Longbow (aka KenjiE20)  
 **Role:** Administrator  
 **Data:** Creater and administrator of Longbows Lair. Has a great want to being highly random.
@@ -56,34 +56,34 @@ Enjoys spending vast majorities of his time gaming on almost every genre of game
 
 Despite being the administrator of LB's Lair, he normally manages to distrct himself sufficiantly that work on the site rarely ever gets done.  
 (Although he can usually be brought round by waving £40 under his nose <img src="images/smiley-tongue-out.gif" alt="">)
-<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>
-<span style="text-decoration: underline;">Longbow on Longbow</span>  
+{{< rawhtml >}}<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>{{< /rawhtml >}}
+{{< rawhtml >}}<span style="text-decoration: underline;">Longbow on Longbow</span>{{< /rawhtml >}}  
 I just happen to be the creator, owner and divine ruler of this here waste of internet resources, that is known as Longbows Lair.  
 Harbour great interests for; Gaming, technology and computers, anime and manga and happen to be a Stargate fan into the bargain.  
 Unfortunatly most of the above seems to be true to form.  
 Currently working as a freelance Computer Technician and Web Designer / Consultant.
-</td></tr></tbody></table>
+{{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
 
 <a href="http://profile.xfire.com/kenjie20"><img src="images/kenjie20.png" border="0" alt=" " width="450" height="34"></a>
-</td>
+{{< rawhtml >}}</td>
 
-<td width="100" valign="top">
+<td width="100" valign="top">{{< /rawhtml >}}
 <img src="images/lb.gif" alt="">
-</td></tr></tbody></table>
+{{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-<table border="0" align="center"><tbody><tr><td width="100" valign="top">
+{{< rawhtml >}}<table border="0" align="center"><tbody><tr><td width="100" valign="top">{{< /rawhtml >}}
 <img src="images/010.gif" alt="">
-</td><td>
+{{< rawhtml >}}</td><td>{{< /rawhtml >}}
 **Name:** Archangel\_Sleeps (aka. Ingo\_Sleeps)  
 **Role:** Gun for hire and random 'behind-the-scenes' work (Partially Active)  
 **Data:** Very much the 'odd job man' both IRL and on site. Has a want for anything that goes boom and projects small bits of plastic or metal very fast.Very randomly introduced himself to Longbow, during Sixth Form (2 years before Univercity for those not in the UK), mistaking him for a Japanese exchange student. Ever since has been entrusted with a support role, both in RL and on LB's Lair. Usually found twiddling with random mechanical objects or playing an FPS.
 
 Doesn't do anything majorly visibly on the website, apart from the odd post or review, but will usually cast a eye over everything once, before it goes live, in an attempt by both himself and Longbow to keep LB's Lair consistant.  
 He is also the one among us with safety qualifications thus allowing us to do some rather crazy/stupid things and not die.
-<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>
-<span style="text-decoration: underline;">Archangel on Archangel</span>  
+{{< rawhtml >}}<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>{{< /rawhtml >}}
+{{< rawhtml >}}<span style="text-decoration: underline;">Archangel on Archangel</span>{{< /rawhtml >}}  
 Me on...me.
 
 all of the above is true, including the fact i actually hold a variety of safety qualifications. no i don't know how either, since as of writing this i have a severely bruised spine due to sand-dune based idiocy. go figure. i also enjoy smut in large amounts, industrial artworks (musical and canvas), hacking about the wilderness. i love my guns, only a little less than i love my girlfriend. and i love living in this house with the guys. its demented, filthy, and fun.
@@ -93,31 +93,31 @@ Drink: Scrumpy, Peach Schnapps and Lemonade. Earl Grey tea (sometimes with schna
 Eat: Food. Compo rations are nice too. though not quite food. most things go well in sandwiches, especially ham.
 
 Invicus Maneo (i remain unvanquished)
-</td></tr></tbody></table></td></tr></tbody></table>
+{{< rawhtml >}}</td></tr></tbody></table></td></tr></tbody></table>{{< /rawhtml >}}
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-<table border="0" align="center"><tbody><tr><td>
+{{< rawhtml >}}<table border="0" align="center"><tbody><tr><td>{{< /rawhtml >}}
 **Name:** AKRay  
 **Role:** Proof-reader / lurker (Partially Active)  
 **Data:** Discovered through one of Longbow's mates from Univercity, and has since proved to be of much use, providing much needed proof checks for the site, work and ideas. All of which usually leads to something interesting.  
 Can usually be found, rebuilding various airsoft weapons, playing EvE / Warhammer 40K (table-top), or jamming out on various electric guitars.
 
-<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>
-<span style="text-decoration: underline;">AKRay on AKRay</span>  
+{{< rawhtml >}}<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>{{< /rawhtml >}}
+{{< rawhtml >}}<span style="text-decoration: underline;">AKRay on AKRay</span>{{< /rawhtml >}}  
 No data available.
 
 \-\-Longbow
-</td></tr></tbody></table></td>
-<td width="100" valign="top">
+{{< rawhtml >}}</td></tr></tbody></table></td>
+<td width="100" valign="top">{{< /rawhtml >}}
 <img src="images/akray.png" alt="">
-</td></tr></tbody></table>
+{{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
 
 ***
 
 **Inactive Staffers**
 
-<table border="0" align="center"><tbody><tr><td>
+{{< rawhtml >}}<table border="0" align="center"><tbody><tr><td>{{< /rawhtml >}}
 **Name:** Ryugen  
 **Role:** Fan fiction writer and forum lurker (Inactive)  
 **Data:** Write fan fiction in his spare time and is a hardcore gamer. Has a great want for chocolate and 'bone idle' probably does not do this man justice.
@@ -125,49 +125,48 @@ No data available.
 Randomly brought on the scene a year after Vegellamy and Mortis appeared. Will occationally vent on the forums. Enjoys playing almost every game in existance, with the exception of some Sports titles. Can always be found sleeping, eating or gaming (either on a console in the front room or on the new PC).
 
 Whilst probably being the most qualified among us to write reviews, doesn't as he is likely one of the laziest men on Earth. Would post fan fictions but he hasn't finished any as of writing. And like the rest of us, everytime something is mentioned about the site, the idea is lost as soon as he sits in front of the PC.
-<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>
-<span style="text-decoration: underline;">Ryugen on Ryugen</span>  
+{{< rawhtml >}}<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>{{< /rawhtml >}}
+{{< rawhtml >}}<span style="text-decoration: underline;">Ryugen on Ryugen</span>{{< /rawhtml >}}  
 No data available.  
 <img width="60%" src="images/lazydog.jpg">
 
 \-\-Longbow
-</td></tr></tbody></table></td>
-<td width="100" valign="top">
+{{< rawhtml >}}</td></tr></tbody></table></td>
+<td width="100" valign="top">{{< /rawhtml >}}
 <img src="images/1065138991438a6a0d78da9.gif">
-</td></tr></tbody></table>
+{{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-<table border="0" align="center"><tbody><tr><td width="100" valign="top">
+{{< rawhtml >}}<table border="0" align="center"><tbody><tr><td width="100" valign="top">{{< /rawhtml >}}
 <img src="images/124460638243843b0c45ee4.gif">
-</td><td>
+{{< rawhtml >}}</td><td>{{< /rawhtml >}}
 **Name:** Vegellamy  
 **Role:** Graphics Artist and Content provider (Inactive)  
 **Data:** Graphic artist and consultant for LB's Lair. Has every trait of the average housecat.Found by Longbow, being a bum and a lazy student during a gathering at Univercity, and immeadiatly dragged into involvement. Enjoys spending most of his time goofing off, playing FPS's or 'hack-and-slash' RPG's and occasionally can be found down the pub (when he has money), has also started to take up guitar.
 
 When prodded with a sharp pointy stick will sometimes actually do work, but like Longbow (and cats), gets distracted easily.
-<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>
-<span style="text-decoration: underline;">Vegellamy on Vegellamy</span>  
+{{< rawhtml >}}<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>{{< /rawhtml >}}
+{{< rawhtml >}}<span style="text-decoration: underline;">Vegellamy on Vegellamy</span>{{< /rawhtml >}}  
 No data available.  
 <img width="60%" src="images/lazycat.jpg">
 
 \-\-Longbow
-</td></tr></tbody></table></td></tr></tbody></table>
+{{< rawhtml >}}</td></tr></tbody></table></td></tr></tbody></table>{{< /rawhtml >}}
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-<table border="0" align="center"><tbody><tr><td>
+{{< rawhtml >}}<table border="0" align="center"><tbody><tr><td>{{< /rawhtml >}}
 **Name:** LordMortis  
 **Role:** Content provider and forum lurker (Inactive)  
 **Data:** Occationally provides content for LB's Lair, normally in the form of amusing photo's. Has a nasty habit of being too tall for everything around him.Found next to Vegellamy at the same gathering, and slowly became interested in doing random bits as a small personal side-project. Usually found either becoming one with an RPG or randomly jamming on the electric guitar.
 
 Would probably do work on the website, except everytime anyone reminds him, by the time he's gone back to his PC, he's imersed in an RPG again, and the idea is promptly lost.
-<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>
-<span style="text-decoration: underline;">Mortis on Mortis</span>  
+{{< rawhtml >}}<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>{{< /rawhtml >}}
+{{< rawhtml >}}<span style="text-decoration: underline;">Mortis on Mortis</span>{{< /rawhtml >}}  
 No data available.
 
 \-\-Longbow
-</td></tr></tbody></table></td>
-<td width="100" valign="top">
+{{< rawhtml >}}</td></tr></tbody></table></td><td width="100" valign="top">{{< /rawhtml >}}
 <img src="images/449370679437c923c1107a.jpg">
-</td></tr></tbody></table>
+{{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}

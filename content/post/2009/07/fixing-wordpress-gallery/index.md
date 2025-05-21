@@ -140,40 +140,10 @@ One thing I noticed was that the gallery tends to get a little out of shape if y
 
 ### After all this...
 
-|  | Pros | Cons |
-| --- | --- | --- |
-| Plugin | 
-- Customisable
-- Will work after WP upgrade
-- Added extras
-
- | 
-
-- Might not always work with your WP
-- May still require tweaks
-- Possible bloat (depending on plugin)
-
- |
-| WordPress/Patching | 
-
-- Will be supported by WP
-- Less work
-
- | 
-
-- Could be a while till it arrives, if it arrives
-- More work to fix the XHTML issue, should you choose to
-
- |
-| D.I.Y. | 
-
-- Produces the code you want
-- Quick fix
-
- | 
-
-- Won't work after a WP upgrade
-
- |
+|                    | Pros    | Cons  |
+| ------------------ | ------- | ----- |
+| Plugin             | {{< rawHTML >}}<ul><li>Customisable</li><li>Will work after WP upgrade</li><li>Added extras</li></ul>{{< /rawHTML >}} | {{< rawHTML >}}<ul><li>Might not always work with your WP</li><li>May still require tweaks</li><li>Possible bloat (depending on plugin)</li></ul>{{< /rawHTML >}} |
+| WordPress/Patching | {{< rawHTML >}}<ul><li>Will be supported by WP</li><li>Less work</li></ul>{{< /rawHTML >}} | {{< rawHTML >}}<ul><li>Could be a while till it arrives, if it arrives</li><li>More work to fix the XHTML issue, should you choose to</li></ul>{{< /rawHTML >}} |
+| D.I.Y.             | {{< rawHTML >}}<ul><li>Produces the code you want</li><li>Quick fix</li></ul>{{< /rawHTML >}} | {{< rawHTML >}}<ul><li>Won't work after a WP upgrade</li></ul>{{< /rawHTML >}} |
 
 None of these are what you could call a perfect fix. Personally, I've switched from the DIY fix to the plugin one, on account that it works, and it's easily editable via the wp-admin. Here's hoping WP will include something like Cleaner Gallery soon, to fix what should be a pretty basic addition.

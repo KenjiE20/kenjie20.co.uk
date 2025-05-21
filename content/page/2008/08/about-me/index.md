@@ -24,8 +24,8 @@ Freelance Computer Technician and Web Designer / Consultant.
 List of works;
 
 - [Elliott Military Web Store](http://www.elliottmilitary.co.uk)
-- Merc-Inc Gaming Guild Site now offline
-- Illusion Gaming Guild Site now offline
+- {{< rawhtml >}}<del datetime="2009-07-27T15:36:05+00:00">Merc-Inc Gaming Guild Site</del>{{< /rawhtml >}} now offline
+- {{< rawhtml >}}<del datetime="2009-07-27T15:36:05+00:00">Illusion Gaming Guild Site</del>{{< /rawhtml >}} now offline
 
 Various Interests;
 
