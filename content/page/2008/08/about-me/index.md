@@ -5,6 +5,8 @@ lastmod: "2016-05-02T18:41:20+01:00"
 guid: http://eddie/wordpress/?p=37
 title: About Me
 aliases: /about-me/
+build:
+  list: never
 ---
 
 ## About Me
