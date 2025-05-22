@@ -1,3 +1,10 @@
 baseURL: https://www.kenjie20.co.uk/
 languageCode: en-gb
 title: KenjiE20
+
+enableEmoji: true
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true

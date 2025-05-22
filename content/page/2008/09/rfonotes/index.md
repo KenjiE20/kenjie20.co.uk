@@ -30,11 +30,13 @@ The main complaints boil down to one of three things; RMT, Client issues, Player
     While everyone agrees that once a game goes Free2Play, it inevitably becomes hard to control the bot problem, what CM (the GMs) have tried to do has worked to a certain extent (wide scale banning will always be problematic), the main problem lies with continuing use of RMT sites to buy money from the bots.
     2. AH  
     The auction house, is by and large the best and easiest way to trade good between players, however as time goes on, the prices become ever more ridiculous. This is by and large a result of point a) and I understand WHY this occurs. The problem this makes is that it creates a 'the rich get richer' scenario within the game, making it all but impossible for the average player to get a hold of goods without paying massively over the odds.
+    {style="list-style-type: lower-alpha"}
 2. Client Issues
     1. Client hacks  
     We all know they're out there, and we've almost all seen some in action. There will always be players out there who hack, it's the nature of gaming. The problem arises when the hacks become widespread. Whilst Bells seem to be most outspoken, but this does NOT mean that they are entirely innocent. There are likely as many bell hacks as there are cora or accretia. There are two issues at play, one that the code has not been protected better, and two that the more people use them, the more other people will join them.
     2. Client Glitches / bugs  
     The infamous 'blind' or 'ghost' bug. We've all had it, we've all lost to it at some point. Much speculation has gone on around what causes it. Most of which is totally irrelevant to the end result, the bug exists and has existed for some time, and we know nothing more, which brings me neatly to the last point.
+    {style="list-style-type: lower-alpha"}
 3. Player Relations
     1. With CMs and the GMs  
     There seems to be a great deal of unpleasantness aimed at the GMs or CM from the players.Here's how it pans out as far as I can tell. CM enters talks with CCR, come to and agreement, and licence the game for use in US/EU. CCR write the game and provide CM with access to it. CCR receive feedback from CM and its player base to fix bugs and provide more content / tools. This worked great up until Episode 2. At which point it seems the GM team either stopped, or more likely, lost access to tools to allow them to pull off events.This has had a knock on effect to the GM team, as all they can do is 'maintenance' style tasks (bans / kicks / limited fixes) and to CM, who seem to land a lot of the blame for this, rightly or wrongly, I can't tell.  
@@ -57,6 +59,8 @@ The main complaints boil down to one of three things; RMT, Client issues, Player
 
         That said I don't have sympathy for those that CAN do something during CW and choose to openly boycott said event. If you don't want to go, fine, do so quietly, rather than make noise on the chat channels, which move fast enough as it is during a war.
     3. The other part of this, is the lack of help that players put out toward each other. There are a lot of people that don't get to play for very long, and spending that time constantly shouting out for a group to join is not the most interesting use of free time. I see the need to get a certain layout of classes for the standard party, but once that criteria is meant, you shouldn't just start grabbing high level DPS to make your parties life easier. It has the knock on effect that a lot of characters stagnate at certain points, as it becomes very hard to grab groups. In my experience (that of an AR) this happens at the points where you level past a 'bracket' and into the next without gaining anything of much influence. In my ARs career this has been 41-42 & 46-47, but I'm sure this occurs to all classes at various points.
+    {style="list-style-type: lower-alpha"}
+
 Spending half the time online calling for a group, then getting rolled, then chewed out for being unable to roll in CW, calling for a group again and being rolled once more, isn't exactly the most enjoyable experience for a game. It would be nice if more people were mindful of others, but that's pretty much a pipe dream, both in game and out.
 
 ***
