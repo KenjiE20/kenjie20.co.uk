@@ -24,4 +24,4 @@ Oh and I bumped [rslap](/downloads/weechat-scripts/rslap/) up to v1.1, with a fi
 
 Also EVE got a funky new trailer, which I'm slotting in here, simply because I can;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/08hmqyejCYU" frameborder="0" allowfullscreen></iframe>
+{{< youtube id=08hmqyejCYU loading=lazy >}}
