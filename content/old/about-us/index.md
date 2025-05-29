@@ -42,7 +42,7 @@ You can link to us using the following code;
 ```
 
 To produce;  
-<a href="http://www.longbowslair.co.uk" target="_blank"><img src="images/linktous.png" border="0" alt=""></a>
+[![](/images/linktous.png)](http://www.longbowslair.co.uk)
 {{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
 
 ***
@@ -66,17 +66,17 @@ Unfortunatly most of the above seems to be true to form.
 Currently working as a freelance Computer Technician and Web Designer / Consultant.
 {{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
 
-<a href="http://profile.xfire.com/kenjie20"><img src="images/kenjie20.png" border="0" alt=" " width="450" height="34"></a>
+[![](images/kenjie20.png)](http://profile.xfire.com/kenjie20)
 {{< rawhtml >}}</td>
 
 <td width="100" valign="top">{{< /rawhtml >}}
-<img src="images/lb.gif" alt="">
+![](images/lb.gif)
 {{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
 {{< rawhtml >}}<table border="0" align="center"><tbody><tr><td width="100" valign="top">{{< /rawhtml >}}
-<img src="images/010.gif" alt="">
+![](images/010.gif)
 {{< rawhtml >}}</td><td>{{< /rawhtml >}}
 **Name:** Archangel\_Sleeps (aka. Ingo\_Sleeps)  
 **Role:** Gun for hire and random 'behind-the-scenes' work (Partially Active)  
@@ -112,7 +112,7 @@ No data available.
 \-\-Longbow
 {{< rawhtml >}}</td></tr></tbody></table></td>
 <td width="100" valign="top">{{< /rawhtml >}}
-<img src="images/akray.png" alt="">
+![](images/akray.png)
 {{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
 
 ***
@@ -130,18 +130,18 @@ Whilst probably being the most qualified among us to write reviews, doesn't as h
 {{< rawhtml >}}<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>{{< /rawhtml >}}
 {{< rawhtml >}}<span style="text-decoration: underline;">Ryugen on Ryugen</span>{{< /rawhtml >}}  
 No data available.  
-<img width="60%" src="images/lazydog.jpg">
+![](images/lazydog.jpg)
 
 \-\-Longbow
 {{< rawhtml >}}</td></tr></tbody></table></td>
 <td width="100" valign="top">{{< /rawhtml >}}
-<img src="images/1065138991438a6a0d78da9.gif">
+![](images/1065138991438a6a0d78da9.gif)
 {{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
 {{< rawhtml >}}<table border="0" align="center"><tbody><tr><td width="100" valign="top">{{< /rawhtml >}}
-<img src="images/124460638243843b0c45ee4.gif">
+![](images/124460638243843b0c45ee4.gif)
 {{< rawhtml >}}</td><td>{{< /rawhtml >}}
 **Name:** Vegellamy  
 **Role:** Graphics Artist and Content provider (Inactive)  
@@ -151,7 +151,7 @@ When prodded with a sharp pointy stick will sometimes actually do work, but like
 {{< rawhtml >}}<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>{{< /rawhtml >}}
 {{< rawhtml >}}<span style="text-decoration: underline;">Vegellamy on Vegellamy</span>{{< /rawhtml >}}  
 No data available.  
-<img width="60%" src="images/lazycat.jpg">
+![](images/lazycat.jpg)
 
 \-\-Longbow
 {{< rawhtml >}}</td></tr></tbody></table></td></tr></tbody></table>{{< /rawhtml >}}
@@ -170,5 +170,5 @@ No data available.
 
 \-\-Longbow
 {{< rawhtml >}}</td></tr></tbody></table></td><td width="100" valign="top">{{< /rawhtml >}}
-<img src="images/449370679437c923c1107a.jpg">
+![](images/449370679437c923c1107a.jpg)
 {{< rawhtml >}}</td></tr></tbody></table>{{< /rawhtml >}}
