@@ -9,6 +9,11 @@ markup:
       attribute:
         block: true
 
+privacy:
+  youTube:
+    disable: false
+    privacyEnhanced: false
+
 module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
