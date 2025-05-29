@@ -8,3 +8,8 @@ markup:
     parser:
       attribute:
         block: true
+
+privacy:
+  youTube:
+    disable: false
+    privacyEnhanced: false
