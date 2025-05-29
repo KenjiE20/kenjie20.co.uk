@@ -57,7 +57,7 @@ To produce;
 Enjoys spending vast majorities of his time gaming on almost every genre of game, bar sports. Can usually be found immersing himself in RPG realms, or otherwise fragging a lot of things at high speed.
 
 Despite being the administrator of LB's Lair, he normally manages to distrct himself sufficiantly that work on the site rarely ever gets done.  
-(Although he can usually be brought round by waving £40 under his nose <img src="images/smiley-tongue-out.gif" alt="">)
+(Although he can usually be brought round by waving £40 under his nose :stuck_out_tongue:)
 {{< rawhtml >}}<table border="0" width="85%" align="center" bgcolor="#222233"><tbody><tr><td>{{< /rawhtml >}}
 {{< rawhtml >}}<span style="text-decoration: underline;">Longbow on Longbow</span>{{< /rawhtml >}}  
 I just happen to be the creator, owner and divine ruler of this here waste of internet resources, that is known as Longbows Lair.  
