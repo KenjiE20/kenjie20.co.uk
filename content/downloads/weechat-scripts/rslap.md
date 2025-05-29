@@ -12,7 +12,7 @@ Current Version: **1.3.1** \[ [dl](http://files.getdropbox.com/u/501502/rslap.pl
 
 Command Usage:
 
-- /rslap \[ will pick a random message and issue a /me in the current buffer, entry will use that entry number instead of a random one
+- /rslap \<nick\> \[\<entry\]\> will pick a random message and issue a /me in the current buffer, entry will use that entry number instead of a random one
 - /rslap\_info is used to print out the available messages rslap can use
 - /rslap\_add  
   /rslap\_remove  
