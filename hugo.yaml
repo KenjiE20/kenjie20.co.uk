@@ -86,3 +86,7 @@ menu:
       name: Tags
       url: /tags/
       #weight: 20
+    - identifier: old
+      name: Old Pages
+      url: /old/
+      #weight: 10
