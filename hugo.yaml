@@ -3,6 +3,11 @@ languageCode: en-gb
 title: KenjiE20
 
 enableEmoji: true
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
 
 module:
   imports:
