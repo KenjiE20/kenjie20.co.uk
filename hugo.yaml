@@ -22,3 +22,6 @@ params:
   author: KenjiE20
   #mainSections:
   #  - blog
+
+  profileMode:
+    enabled: true
