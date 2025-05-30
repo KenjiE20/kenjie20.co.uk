@@ -1,4 +1,4 @@
-name: Test built website against Lighthouse
+name: Test built website against htmltest
 
 on: 
   push:
@@ -34,12 +34,7 @@ jobs:
       - name: Hugo build
         run: hugo --cleanDestinationDir --gc --minify
 
-      - name: Run Lighthouse CI
-        uses: treosh/lighthouse-ci-action@v12
+      - name: Run htmltest
+        uses: wjdp/htmltest-action@master
         with:
-          configPath: ".github/workflows/lighthouserc-test.json"
-          uploadArtifacts: true
-          temporaryPublicStorage: true
-        env:
-          LHCI_GITHUB_APP_TOKEN: ${{ secrets.LHCI_GITHUB_APP_TOKEN }}
-
+          config: .htmltest.yml
