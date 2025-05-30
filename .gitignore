@@ -12,6 +12,9 @@ hugo.linux
 # Temporary lock file while building
 /.hugo_build.lock
 
+# htmltest temp files
+tmp/.htmltest
+
 # Synology NAS specific files
 @eaDir/
 *@SynoResource
