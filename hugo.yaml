@@ -27,3 +27,27 @@ params:
   profileMode:
     enabled: true
     subtitle: Wasting internet space since 1998
+
+  socialIcons: # optional
+    - name: bluesky
+      url: https://bsky.app/@kenjie20.bsky.social
+    - name: facebook
+      url: https://www.facebook.com/kenji.eva
+    - name: flickr
+      url: https://www.flickr.com/people/52484662@N05/
+    - name: github
+      url: https://github.com/KenjiE20
+    - name: linkedin
+      url: https://www.linkedin.com/in/kenji-eva-16b84864
+    - name: reddit
+      url: https://www.reddit.com/user/kenjie20/
+    - name: spotify
+      url: https://open.spotify.com/user/u71jn4dkabs0wx1plz79bd4zm
+    - name: steam
+      url: https://steamcommunity.com/id/kenjie20/
+    - name: twitch
+      url: https://www.twitch.tv/kenjie20
+    - name: twitter
+      url: https://twitter.com/KenjiE20
+    - name: youtube
+      url: https://www.youtube.com/channel/UCJXWTI8fQCAdjql-TqWc2Ag
