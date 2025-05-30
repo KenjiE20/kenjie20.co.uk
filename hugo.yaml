@@ -27,6 +27,10 @@ params:
   profileMode:
     enabled: true
     subtitle: Wasting internet space since 1998
+    imageUrl: "/images/circle-sq.png" # optional
+    #imageTitle: "<title of image as alt>" # optional
+    imageWidth: 75 # custom size
+    imageHeight: 75 # custom size
 
     buttons:
       - name: Photo Gallery
