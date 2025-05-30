@@ -7,6 +7,6 @@ aliases: /gallery/screenshots/openttd/
 ---
 
 A collection of random screenshots from stuff I've made in [OpenTTD](http://www.openttd.org)
-An ongoing story gets occasionally updated in the [OpenTTD post category](/category/openttd/)
+An ongoing story gets occasionally updated in the [OpenTTD post category](/categories/openttd/)
 
 \[gallery\]
