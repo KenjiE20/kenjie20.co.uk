@@ -28,6 +28,22 @@ params:
     enabled: true
     subtitle: Wasting internet space since 1998
 
+    buttons:
+      - name: Photo Gallery
+        url: https://piwigo.kenjie20.co.uk/
+      - name: Screenshot Gallery
+        url: /gallery/screenshots/
+      - name: Blog
+        url: /blog/
+      - name: Downloads
+        url: /downloads/
+      - name: exophase
+        url: https://www.exophase.com/user/KenjiE20/
+      - name: completionist.me
+        url: https://completionist.me/user/602cf14d-6a7d-4b61-9008-89e31e56d567
+      - name: Keep Track of my Games
+        url: https://keeptrackofmygames.com/users/kenjie20
+
   socialIcons: # optional
     - name: bluesky
       url: https://bsky.app/@kenjie20.bsky.social
