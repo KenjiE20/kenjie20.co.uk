@@ -2,6 +2,8 @@ baseURL: https://www.kenjie20.co.uk/
 languageCode: en-gb
 title: KenjiE20
 
+enableEmoji: true
+
 module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
