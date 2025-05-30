@@ -24,6 +24,9 @@ params:
   #mainSections:
   #  - blog
 
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
   profileMode:
     enabled: true
     subtitle: Wasting internet space since 1998
