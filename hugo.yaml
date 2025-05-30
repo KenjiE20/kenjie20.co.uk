@@ -1,6 +1,7 @@
 baseURL: https://www.kenjie20.co.uk/
 languageCode: en-gb
 title: KenjiE20
+description: Wasting internet space since 1998
 
 enableEmoji: true
 markup:
@@ -25,3 +26,4 @@ params:
 
   profileMode:
     enabled: true
+    subtitle: Wasting internet space since 1998
