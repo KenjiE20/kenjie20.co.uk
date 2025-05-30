@@ -1,4 +1,4 @@
-name: Run built website against lighthouse
+name: Test built website
 
 on: 
   push:
@@ -42,3 +42,8 @@ jobs:
           temporaryPublicStorage: true
         env:
           LHCI_GITHUB_APP_TOKEN: ${{ secrets.LHCI_GITHUB_APP_TOKEN }}
+
+      - name: Run htmltest
+        uses: wjdp/htmltest-action@master
+        with:
+          config: .htmltest.yml
