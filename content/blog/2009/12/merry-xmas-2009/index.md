@@ -13,4 +13,8 @@ guid: http://www.longbowslair.co.uk/?p=834
 aliases: /2009/12/merry-xmas-2009/
 ---
 
-![OS Tan Xmas, Artist Unknown](images/ostanxmas.jpg "OS Tan Xmas, Artist Unknown")
+{{< figure
+  src="images/ostanxmas.jpg"
+  alt="OS Tan Xmas, Artist Unknown"
+  align=center
+>}}

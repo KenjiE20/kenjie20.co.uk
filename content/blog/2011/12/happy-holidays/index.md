@@ -14,6 +14,16 @@ guid: http://www.longbowslair.co.uk/?p=960
 aliases: /2011/12/happy-holidays/
 ---
 
-![](images/eqd_christmas_contest_entry_by_esipode-d4hzu39.png-1024x768.jpg "eqd_christmas_contest_entry_by_esipode-d4hzu39.png")![](images/merry_christmas_everypony__by_internationaltck-d4jhwn5.jpg "merry_christmas_everypony__by_internationaltck-d4jhwn5")
+{{< figure
+  src="images/eqd_christmas_contest_entry_by_esipode-d4hzu39.png-1024x768.jpg"
+  link="eqd_christmas_contest_entry_by_esipode-d4hzu39.png.jpg"
+  alt="eqd_christmas_contest_entry_by_esipode-d4hzu39.png"
+  align=center
+>}}
+{{< figure
+  src="images/merry_christmas_everypony__by_internationaltck-d4jhwn5.jpg"
+  alt="merry_christmas_everypony__by_internationaltck-d4jhwn5"
+  align=center
+>}}
 
 \[[Source 1](http://fav.me/d4hzu39)\] - \[[Source 2](http://fav.me/d4jhwn5)\]

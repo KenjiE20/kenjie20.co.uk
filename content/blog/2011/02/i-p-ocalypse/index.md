@@ -12,7 +12,11 @@ guid: http://www.longbowslair.co.uk/?p=936
 aliases: /2011/02/i-p-ocalypse/
 ---
 
-![](images/ipv4-duke.jpg "ipv4-duke")
+{{< figure
+  src="images/ipv4-duke.jpg"
+  alt="ipv4-duke"
+  align=center
+>}}
 
 Yup, it happened, we ran out of IPv4 addresses to give out. [http://inetcore.com/project/ipv4ec/index\_en.html](http://inetcore.com/project/ipv4ec/index_en.html)
 
