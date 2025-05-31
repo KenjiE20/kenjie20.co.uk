@@ -13,8 +13,13 @@ guid: http://www.longbowslair.co.uk/?p=1123
 aliases: /2016/05/japan-2016-photo-album/
 ---
 
-\[PiwigoPress id=429 url='https://piwigo.kenjie20.co.uk/' size='2s' class='alignright' lnktype='album' opntype='\_blank' order='undefined'\]
-
+{{< figure
+  src="images/DSC00284.jpg"
+  link="https://piwigo.kenjie20.co.uk/index.php?/category/japan-2016"
+  alt="Japan 2016"
+  width="180"
+  class="figure-right"
+>}}
 Better late than never, here's my photo album from my visit to Japan, between 26th March, and 9th April
 
 The trip took us from Sapporo, where I wanted to visit my grand fathers grave, then by train down to Hakodate. Then by air down to Tokyo for a few days, before hitting the Shinkansen to Osaka. Using Osaka as a base to also visit Himeji, Kyoto and Nara.
