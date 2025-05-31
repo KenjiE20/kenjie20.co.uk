@@ -8,7 +8,13 @@ guid: http://www.longbowslair.co.uk/?page_id=750
 ---
 _Trine_ is a side scrolling platformer, given a thoroughly modern twist, with fantastic visuals. The use of physics, gives an added angle to gameplay as you can solve each level in a multitude of ways.
 
-\[caption id="attachment\_751" align="alignright" width="212" caption="Trine Cover"\] [![Trine Cover](/wp-content/uploads/2009/08/trine_packshot-212x300.jpg)](http://www.amazon.co.uk/ASCARON-Entertainment-UK-Ltd-Trine/dp/B001TDKIYU)\[/caption\]
+{{< figure
+  src="images/trine_packshot.jpg"
+  alt="Trine Cover"
+  caption="Trine Cover"
+  width="212"
+  class="figure-right"
+>}}
 
 Characters and Story
 

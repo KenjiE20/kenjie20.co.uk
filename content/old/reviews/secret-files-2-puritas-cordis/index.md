@@ -8,7 +8,13 @@ aliases: /reviews/secret-files-2-puritas-cordis/
 
 Nina Kalenkow returns in a new point-and-click adventure game; _Secret Files 2: Puritas Cordis_,The sequel to the award winning adventure hit _Secret Files Tunguska_. If you're a fan of proper adventure games, you won't want to miss this.
 
-\[caption id="attachment\_650" align="alignright" width="256" caption="Secret Files 2: Puritas Cordis Boxshot"\]![Secret Files 2: Puritas Cordis Boxshot](images/Secret.Files.2.Puritas.Cordis.jpg "Buy now at Amazon")\[/caption\]
+{{< figure
+  src="images/Secret.Files.2.Puritas.Cordis.jpg"
+  alt="Secret Files 2: Puritas Cordis Boxshot"
+  caption="Secret Files 2: Puritas Cordis Boxshot"
+  width="256"
+  class="figure-right"
+>}}
 
 If you never played the first game, you needn't worry. While this _is_ a continuation of these character's stories, there isn't anything in the storyline that requires you to have played through the first game. You get more from the odd reference they make if you have, but it's certainly not game play halting.
 
@@ -18,9 +24,30 @@ If you played _Secret Files_, you won't want to miss this. The sequel keeps the 
 
 While the scenario for this game, is a little less inventive / believable, than the first, it's still engaging, and you won't really notice till the very end. The game has a great sense of humour, about itself, the genre and in general, and is bound to have you chuckling in places, and it's always enjoyable to watch our red-headed hero, Nina, quip her way through the odder encounters.
 
-[![Secret Files 2: 01](images/800x600_prop6-150x150.jpg "Secret Files 2: 01")](/wp-content/uploads/2009/08/800x600_prop6.jpg)[![Secret Files 2: 02](images/800x600_prop3-150x150.jpg "Secret Files 2: 02")](/wp-content/uploads/2009/08/800x600_prop3.jpg)
-
-[![Secret Files 2: 03](images/800x600_prop4-150x150.jpg "Secret Files 2: 03")](/wp-content/uploads/2009/08/800x600_prop4.jpg)[![Secret Files 2: 04](images/800x600_prop-150x150.jpg "Secret Files 2: 04")](/wp-content/uploads/2009/08/800x600_prop.jpg)
+{{< figure
+  src="images/800x600_prop6-150x150.jpg"
+  link="images/800x600_prop6.jpg"
+  alt="Secret Files 2: 01"
+  width="150"
+>}}
+{{< figure
+  src="images/800x600_prop3-150x150.jpg"
+  link="images/800x600_prop3.jpg"
+  alt="Secret Files 2: 02"
+  width="150"
+>}}
+{{< figure
+  src="images/800x600_prop4-150x150.jpg"
+  link="images/800x600_prop4.jpg"
+  alt="Secret Files 2: 03"
+  width="150"
+>}}
+{{< figure
+  src="images/800x600_prop-150x150.jpg"
+  link="images/800x600_prop.jpg"
+  alt="Secret Files 2: 04"
+  width="150"
+>}}
 
 A few niggles aside, _Secret Files 2: Puritas Cordis_, is a highly enjoyable, proper Point-and-Click adventure game. It looks, sounds and plays brilliantly, and nicely strikes the balance between "far too easy" and "what the?". With about 12-15 hours worth of game-play _Secret Files 2_ will certainly keep you busy for a while.
 

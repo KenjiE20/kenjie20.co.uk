@@ -8,7 +8,13 @@ aliases: /reviews/need-for-speed-most-wanted/
 
 For those that don't know, driving games are easily one of my favorite genre's, and the Need For Speed series has always been one of the defining games, esp. for the PC.
 
-\[caption id="attachment\_297" align="alignright" width="256" caption="NFS:MW cover"\]![NFS:MW cover](images/nfsmw-win-cover.jpg "Buy now at Amazon")\[/caption\]
+{{< figure
+  src="images/nfsmw-win-cover.jpg"
+  alt="NFS:MW cover"
+  caption="NFS:MW cover"
+  width="256"
+  class="figure-right"
+>}}
 
 And Most Wanted is definatly no exception...
 Being one of the first games to use HDR in the racing genre( the only other that springs to mind being Burnout: Revenge) it looks fantastic, despite me having to drop one res set to be able to play it smoothly...
