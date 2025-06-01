@@ -16,6 +16,7 @@ summary: |-
   It's been bugging me for a while now, so I decided to do a bit of research to find some solutions, and figured it would be useful to post the results.
 guid: http://www.longbowslair.co.uk/?p=566
 aliases: /2009/07/fixing-wordpress-gallery/
+ShowCodeCopyButtons: true
 ---
 
 It's moderately well known that Wordpress' gallery code, is not as robust as it could be in some cases. These have a tendency to manifest in XHTML / multi-column CSS layouts. There are two main issues;
