@@ -10,4 +10,4 @@ This is still very much an alpha work in progress, and as of this moment (Sept '
 
 If you want to help out, head over to [http://forums.beyondunreal.com/showthread.php?t=182976](http://forums.beyondunreal.com/showthread.php?t=182976) and drop some feedback.
 
-[![rbase01](images/rbase01-300x225.png "rbase01")](/wp-content/uploads/2009/03/rbase01.png)[![center](images/center-300x225.png "center")](/wp-content/uploads/2009/03/center.png)[![bbase01](images/bbase01-300x225.png "bbase01")](/wp-content/uploads/2009/03/bbase01.png)
+[![rbase01](images/rbase01-300x225.png "rbase01")](images/rbase01.png)[![center](images/center-300x225.png "center")](images/center.png)[![bbase01](images/bbase01-300x225.png "bbase01")](images/bbase01.png)
