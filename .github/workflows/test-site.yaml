@@ -34,6 +34,11 @@ jobs:
       - name: Hugo build
         run: hugo --cleanDestinationDir --gc --minify
 
+      - name: Run htmltest
+        uses: wjdp/htmltest-action@master
+        with:
+          config: .htmltest.yml
+
       - name: Run Lighthouse CI
         uses: treosh/lighthouse-ci-action@v12
         with:
@@ -42,8 +47,3 @@ jobs:
           temporaryPublicStorage: true
         env:
           LHCI_GITHUB_APP_TOKEN: ${{ secrets.LHCI_GITHUB_APP_TOKEN }}
-
-      - name: Run htmltest
-        uses: wjdp/htmltest-action@master
-        with:
-          config: .htmltest.yml
