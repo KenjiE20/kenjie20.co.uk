@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  lighthouse:
+  build-and-test-site:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
