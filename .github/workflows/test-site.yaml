@@ -34,6 +34,13 @@ jobs:
       - name: Hugo build
         run: hugo --cleanDestinationDir --gc --minify
 
+      - name: Cache htmltest external results
+        id: htmltest-cache
+        uses: actions/cache@v4
+        with:
+          path: tmp/.htmltest/refcache.json
+          key: htmltest-refcache
+
       - name: Run htmltest
         uses: wjdp/htmltest-action@master
         with:
