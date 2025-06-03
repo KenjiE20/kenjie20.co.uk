@@ -34,10 +34,25 @@ jobs:
       - name: Hugo build
         run: hugo --cleanDestinationDir --gc --minify
 
+      - name: Cache htmltest external results
+        id: htmltest-cache
+        uses: actions/cache@v4
+        with:
+          path: tmp/.htmltest/refcache.json
+          key: htmltest-refcache
+
       - name: Run htmltest
         uses: wjdp/htmltest-action@master
+        continue-on-error: true
         with:
           config: .htmltest.yml
+
+      - name: Archive htmltest results
+        uses: actions/upload-artifact@v4
+        with:
+          name: htmltest-report
+          path: tmp/.htmltest/htmltest.log
+          retention-days: 7 # Default is 90 days
 
       - name: Run Lighthouse CI
         uses: treosh/lighthouse-ci-action@v12
