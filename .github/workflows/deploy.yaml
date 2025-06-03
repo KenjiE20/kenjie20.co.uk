@@ -36,7 +36,7 @@ jobs:
         with:
           name: hugo-build
           path: ./public
-          retention-days: 5
+          retention-days: 7
           
       # - name: Rsync Deploy
       #   uses: burnett01/rsync-deployments@7.0.2
