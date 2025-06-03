@@ -32,7 +32,7 @@ jobs:
       #  run: git submodule update --init --recursive
 
       - name: Hugo build
-        run: hugo --cleanDestinationDir --gc --minify --baseURL http://localhost/
+        run: hugo --cleanDestinationDir --gc --minify
 
       - name: Cache htmltest external results
         id: htmltest-cache
