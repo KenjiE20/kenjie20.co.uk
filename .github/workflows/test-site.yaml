@@ -32,7 +32,7 @@ jobs:
       #  run: git submodule update --init --recursive
 
       - name: Hugo build
-        run: hugo --cleanDestinationDir --gc --minify --environment="development"
+        run: hugo --cleanDestinationDir --gc --minify
 
       - name: Cache htmltest external results
         id: htmltest-cache
