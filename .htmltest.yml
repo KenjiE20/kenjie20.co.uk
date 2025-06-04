@@ -3,6 +3,18 @@ DirectoryPath: "public"
 IgnoreURLs:
   # dev server
   - livereload
+  # social stuff
+  - x\.com
+  - twitter\.com
+  - linkedin\.com
+  - reddit\.com
+  - facebook\.com
+  - whatsapp\.com
+  - telegram\.me
+  - ycombinator\.com
+  - spotify\.com
+  - flickr\.com
+  - bsky\.app
   # old article links
   - smileville\.co\.uk
   - merc-inc\.co\.uk
