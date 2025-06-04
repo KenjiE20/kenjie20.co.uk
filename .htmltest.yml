@@ -1,5 +1,6 @@
 DirectoryPath: "public"
 #CheckExternal: false # Returned to default, use flag on GH action, default true in dev env
+CheckInternalHash: false
 IgnoreURLs:
   # dev server
   - livereload
