@@ -21,6 +21,7 @@ module:
 
 params:
   author: KenjiE20
+  description: Wasting internet space since 1998
   #mainSections:
   #  - blog
 
