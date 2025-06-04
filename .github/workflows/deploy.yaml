@@ -68,9 +68,6 @@ jobs:
   #       uses: treosh/lighthouse-ci-action@v12
   #       with:
   #         configPath: ".github/workflows/lighthouserc-deploy.json"
-  #         urls: |
-  #           https://www.kenjie20.co.uk
-  #           https://www.kenjie20.co.uk/blog/
   #         uploadArtifacts: true
   #         temporaryPublicStorage: true
   #       env:
