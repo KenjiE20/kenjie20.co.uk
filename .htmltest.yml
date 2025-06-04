@@ -33,3 +33,6 @@ IgnoreURLs:
   - www\.elliottmilitary\.co.uk
   - xfire\.com
   - raptr\.com
+IgnoreDirs:
+  - old/about
+  - blog/2008/06/anidb-sig
