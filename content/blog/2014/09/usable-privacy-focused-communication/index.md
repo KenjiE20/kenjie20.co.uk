@@ -1,7 +1,7 @@
 ---
 title: "Usable Privacy Focused Communication"
 date: "2014-09-16T21:36:52+00:00"
-lastmod: "2016-05-24T21:21:30+01:00"
+lastmod: "2025-06-03T20:55:30+01:00"
 categories: 
   - "news"
 tags: 
@@ -25,7 +25,7 @@ aliases: /2014/09/usable-privacy-focused-communication/
 
 The holy grail for mass adoption of encrypted chat and email, but I'm not going to lecture about why this is important. Instead, I want to list some of the tools that are cropping up, list some pros and cons, and hopefully keep it up to date, and help a few people keep their personal lives, personal.
 
-EFF recently put up their [Secure Messaging Scorecard](https://www.eff.org/secure-messaging-scorecard), detailing various privacy elements of messengers.
+EFF recently put up their [Secure Messaging Scorecard](https://www.eff.org/pages/secure-messaging-scorecard), detailing various privacy elements of messengers.
 
 \[Update; 2014-09-17 - Appear.in\]  
 \[Update; 2014-09-18 - Bleep - Open Alpha\]  
