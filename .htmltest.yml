@@ -1,4 +1,4 @@
 DirectoryPath: "public"
-CheckExternal: true
+#CheckExternal: false # Returned to default, use flag on GH action, default true in dev env
 IgnoreURLs:
   - livereload
