@@ -73,6 +73,5 @@ jobs:
   #           https://www.kenjie20.co.uk/blog/
   #         uploadArtifacts: true
   #         temporaryPublicStorage: true
-  #         runs: 3
   #       env:
   #         LHCI_GITHUB_APP_TOKEN: ${{ secrets.LHCI_GITHUB_APP_TOKEN }}
