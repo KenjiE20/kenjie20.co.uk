@@ -1,9 +1,14 @@
 DirectoryPath: "public"
 #CheckExternal: false # Returned to default, use flag on GH action, default true in dev env
-CheckInternalHash: false
+#CheckInternalHash: false
 IgnoreURLs:
   # outside dirs
   - \/files\/
+  # Ignore <img src="*#center"> for centered images in PaperMod, which would cause "hash not found"
+  # Match internal image path ending in #center
+  - .*\.(apng|gif|ico|cur|jpg|jpeg|jfif|pjpeg|pjp|png|svg)#center$$
+  # Match external image URL ending in #center
+  - (https://|http://|www\.).*\.[A-Za-z]+#center$$
   # dev server
   - livereload
   # social stuff
