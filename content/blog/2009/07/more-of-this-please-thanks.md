@@ -23,6 +23,6 @@ Phoronix posts on the subject so far;
 
 Game studios, pay attention. Linux gamer's exist, and there are many of them, and they move with surprising force, (and buying power).
 
-> So what is Heroes of Newerth all about? Well, we can't exactly tell you. S2 Games has all media under an embargo covering this game. Basically it's an online, multi-player strategy game that is based upon DoTA (Defense of the Ancients).
->
-> \-Phoronix
+{{< blockquote author="Phoronix" >}}
+So what is Heroes of Newerth all about? Well, we can't exactly tell you. S2 Games has all media under an embargo covering this game. Basically it's an online, multi-player strategy game that is based upon DoTA (Defense of the Ancients).
+{{< /blockquote >}}
