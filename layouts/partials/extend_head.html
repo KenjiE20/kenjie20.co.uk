@@ -1,5 +1,5 @@
 <!-- Logic to check and only load once -->
-{{ if .HasShortcode "gallery" }}
+{{ if or (.HasShortcode "gallery") (.HasShortcode "lightbox") }}
     <!-- Load jquery, lightbox2 -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>

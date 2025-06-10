@@ -1,0 +1,42 @@
+<!-- Single Image with Lightbox -->
+<!-- Usage:
+    lightbox
+    link=<link to image> (required)
+    thumb=<link to preprocessed thumbnail> (optional)
+    width=nnn (optional)
+    height=nnn (optional)
+    title=<caption> (optional)
+    alt=<alt text> (optional)   
+-->
+
+{{ $link := .Get "link" }}
+{{ $thumb := .Get "thumb" }}
+
+{{ if not $thumb }}
+    {{ $image := "" }}
+    {{ if resources.GetMatch ($link) }}
+        {{ $image = .resources.Get ($link) }}
+    {{ else }}
+        {{ $image = .Page.Resources.Get ($link) }}
+    {{ end }}
+
+    {{ if $image }}
+        {{ $size := "160x100" }}
+        {{ with $.Get "width" }}
+            {{ with $.Get "height" }}
+                {{ $thumb = $image.Process (printf "Fill %sx%s q60" ($.Get "width" ) ($.Get "height" )) }}
+            {{ else }}
+                {{ $thumb = $image.Process (printf "Resize %sx q60" ($.Get "width" )) }}
+            {{ end }}
+        {{ else }}
+            {{ with $.Get "height" }}
+                {{ $thumb = $image.Process (printf "Resize x%s q60" ($.Get "height" )) }}
+            {{ else }}
+                {{ $thumb = $image.Process (printf "Fill %s q60" $size) }}
+            {{ end }}
+        {{ end }}
+        {{ $thumb = $thumb.Permalink }}
+    {{ end }}
+{{ end }}
+
+<a href="{{ $link }}" data-lightbox="x" {{ if .Get "title" }}data-title="{{ .Get "title" }}"{{ end }}{{ if .Get "alt" }}data-alt="{{ .Get "alt" }}"{{ end }}><img src="{{ $thumb }}" /></a>
