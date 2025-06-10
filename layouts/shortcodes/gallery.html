@@ -1,3 +1,11 @@
+<!-- Page Resource Gallery -->
+<!-- Details:
+    looks for sidecar with name format <image-filename>.meta
+    parses file as JSON and looks for key value "Description"
+    if found sets this as images title,
+    to appear as its lightbox caption
+-->
+
 {{ $image := (.Page.Resources.ByType "image") }}
 <div class="row"> 
 {{ with $image }}
