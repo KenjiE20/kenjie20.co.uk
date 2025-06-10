@@ -2,8 +2,27 @@
 <div class="row"> 
 {{ with $image }}
     {{ range . }}
+
+    {{ $title := "" }}
+    {{ with .Exif }}
+        {{ $title = .Tags.ImageDescription }}
+    {{ end }}
+
+    {{ $metaFileName := print .Name ".meta"}}
+    {{ $metadata := slice }}
+    {{ if resources.GetMatch ($metaFileName) }}
+        {{ $metadata = resources.GetMatch ($metaFileName) }}
+    {{ else }}
+        {{ $metadata = $.Page.Resources.GetMatch ($metaFileName) }}
+    {{ end }}
+    {{ if $metadata }}
+        {{ $metadata = $metadata.Content }}
+        {{ $metadata = $metadata | unmarshal }}
+        {{ $title = $metadata.Description }}
+    {{ end }}
+
     {{ $resized := .Fill "150x115 q20" }}
-    <a href="{{ .Permalink }}" data-lightbox="x" data-title="{{ with .Exif }}{{ .Tags.ImageDescription }}{{ end }}"><img src="{{ $resized.Permalink }}" /></a>
+    <a href="{{ .Permalink }}" data-lightbox="x" data-title="{{ $title }}"><img src="{{ $resized.Permalink }}" /></a>
     {{ end }}
 {{ end }}
 </div>
