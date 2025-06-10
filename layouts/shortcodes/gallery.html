@@ -21,7 +21,7 @@
         {{ $title = $metadata.Description }}
     {{ end }}
 
-    {{ $resized := .Fill "150x115 q20" }}
+    {{ $resized := .Fill "160x100 q60" }}
     <a href="{{ .Permalink }}" data-lightbox="x" data-title="{{ $title }}"><img src="{{ $resized.Permalink }}" /></a>
     {{ end }}
 {{ end }}
