@@ -1,7 +1,9 @@
 {{ $image := (.Page.Resources.ByType "image") }}
+<div class="row"> 
 {{ with $image }}
     {{ range . }}
     {{ $resized := .Fill "150x115 q20" }}
     <a href="{{ .Permalink }}" data-lightbox="x" data-title="{{ with .Exif }}{{ .Tags.ImageDescription }}{{ end }}"><img src="{{ $resized.Permalink }}" /></a>
     {{ end }}
 {{ end }}
+</div>
