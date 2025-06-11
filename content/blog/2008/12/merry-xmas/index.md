@@ -13,4 +13,4 @@ guid: http://eddie/wordpress/?p=1
 aliases: /2008/12/merry-xmas/
 ---
 
-![Code Geass Christmas, Artist Unknown](images/lbcgeassxmas.png "Code Geass Christmas, Artist Unknown")
+![Code Geass Christmas, Artist Unknown](images/lbcgeassxmas.png#center "Code Geass Christmas, Artist Unknown")
