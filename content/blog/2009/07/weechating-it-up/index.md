@@ -19,4 +19,4 @@ The main drawback of the 'usual suspects' were I never found them all that intui
 So now, my IRC looks like this:  
 ([Before](images/irc-before.png))
 
-[![Weechat](images/irc-after-300x216.png "Weechat")](images/irc-after.png)
+{{< lightbox title=Weechat thumb=images/irc-after-300x216.png alt=Weechat link=images/irc-after.png >}}

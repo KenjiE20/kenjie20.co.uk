@@ -17,7 +17,7 @@ However, that doesn't mean I'll a) forget about it, or b) stop adding stuff. It 
 
 In the mean time, here a little something to tease you UT3 players;
 
-[![Orbital](images/orbital-300x111.png "Orbital")](images/orbital.png)
+{{< lightbox title=Orbital thumb=images/orbital-300x111.png alt=Orbital link=images/orbital.png >}}
 
 (if you dont recognise the layout shame on you... It's CTF-Orbital BTW)
 

@@ -10,4 +10,4 @@ This is still very much an alpha work in progress, and as of this moment (Sept '
 
 If you want to help out, head over to [http://forums.beyondunreal.com/showthread.php?t=182976](http://forums.beyondunreal.com/showthread.php?t=182976) and drop some feedback.
 
-[![rbase01](images/rbase01-300x225.png "rbase01")](images/rbase01.png)[![center](images/center-300x225.png "center")](images/center.png)[![bbase01](images/bbase01-300x225.png "bbase01")](images/bbase01.png)
+{{< lightbox title=rbase01 thumb=images/rbase01-300x225.png alt=rbase01 link=images/rbase01.png >}}{{< lightbox title=center thumb=images/center-300x225.png alt=center link=images/center.png >}}{{< lightbox title=bbase01 thumb=images/bbase01-300x225.png alt=bbase01 link=images/bbase01.png >}}
