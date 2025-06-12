@@ -11,6 +11,14 @@
 
 {{ $link := .Get "link" }}
 {{ $thumb := .Get "thumb" }}
+{{ $alttext := .Get "alt" }}
+{{ if not $alttext }}
+    {{ if .Get "title" }}
+        {{ $alttext = .Get "title" }}
+    {{ else }}
+        {{ $alttext = $link }}
+    {{ end }}
+{{ end }}
 
 {{ if not $thumb }}
     {{ $image := "" }}
@@ -39,4 +47,9 @@
     {{ end }}
 {{ end }}
 
-<a href="{{ $link }}" data-lightbox="x" {{ if .Get "title" }}data-title="{{ .Get "title" }}"{{ end }}{{ if .Get "alt" }}data-alt="{{ .Get "alt" }}"{{ end }}><img src="{{ $thumb }}" /></a>
+<figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
+           {{- if eq (.Get "align") "center" }}align-center {{ end }}
+           {{- with .Get "class" }}{{ . }}{{- end }}"
+{{- end -}}>
+<a href="{{ $link }}" data-lightbox="x" {{ if .Get "title" }}data-title="{{ .Get "title" }}"{{ end }} data-alt="{{ $alttext }}"><img src="{{ $thumb }}" alt="{{ $alttext }}" /></a>
+</figure>
