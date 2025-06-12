@@ -24,29 +24,25 @@ If you played _Secret Files_, you won't want to miss this. The sequel keeps the 
 
 While the scenario for this game, is a little less inventive / believable, than the first, it's still engaging, and you won't really notice till the very end. The game has a great sense of humour, about itself, the genre and in general, and is bound to have you chuckling in places, and it's always enjoyable to watch our red-headed hero, Nina, quip her way through the odder encounters.
 
-{{< figure
-  src="images/800x600_prop6-150x150.jpg"
+{{< lightbox
+  thumb="images/800x600_prop6-150x150.jpg"
   link="images/800x600_prop6.jpg"
-  alt="Secret Files 2: 01"
-  width="150"
+  title="Secret Files 2: 01"
 >}}
-{{< figure
-  src="images/800x600_prop3-150x150.jpg"
+{{< lightbox
+  thumb="images/800x600_prop3-150x150.jpg"
   link="images/800x600_prop3.jpg"
-  alt="Secret Files 2: 02"
-  width="150"
+  title="Secret Files 2: 02"
 >}}
-{{< figure
-  src="images/800x600_prop4-150x150.jpg"
+{{< lightbox
+  thumb="images/800x600_prop4-150x150.jpg"
   link="images/800x600_prop4.jpg"
-  alt="Secret Files 2: 03"
-  width="150"
+  title="Secret Files 2: 03"
 >}}
-{{< figure
-  src="images/800x600_prop-150x150.jpg"
+{{< lightbox
+  thumb="images/800x600_prop-150x150.jpg"
   link="images/800x600_prop.jpg"
-  alt="Secret Files 2: 04"
-  width="150"
+  title="Secret Files 2: 04"
 >}}
 
 A few niggles aside, _Secret Files 2: Puritas Cordis_, is a highly enjoyable, proper Point-and-Click adventure game. It looks, sounds and plays brilliantly, and nicely strikes the balance between "far too easy" and "what the?". With about 12-15 hours worth of game-play _Secret Files 2_ will certainly keep you busy for a while.
