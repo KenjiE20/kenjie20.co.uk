@@ -52,6 +52,6 @@
            {{- with .Get "class" }}{{ . }}{{- end }}"
 {{- end -}}>
 <a href="{{ $link }}" data-lightbox="x" {{ if .Get "title" }}data-title="{{ .Get "title" }}"{{ end }} data-alt="{{ $alttext }}">
-<img src="{{ $thumb }}{{- if eq (.Get "align") "center" }}#center{{- end }}" alt="{{ $alttext }}" />
+<img loading="lazy" src="{{ $thumb }}{{- if eq (.Get "align") "center" }}#center{{- end }}" alt="{{ $alttext }}" />
 </a>
 </figure>
