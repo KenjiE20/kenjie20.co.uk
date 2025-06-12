@@ -47,4 +47,9 @@
     {{ end }}
 {{ end }}
 
+<figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
+           {{- if eq (.Get "align") "center" }}align-center {{ end }}
+           {{- with .Get "class" }}{{ . }}{{- end }}"
+{{- end -}}>
 <a href="{{ $link }}" data-lightbox="x" {{ if .Get "title" }}data-title="{{ .Get "title" }}"{{ end }} data-alt="{{ $alttext }}"><img src="{{ $thumb }}" alt="{{ $alttext }}" /></a>
+</figure>
