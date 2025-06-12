@@ -12,6 +12,7 @@
     {{ range . }}
 
     {{ $title := "" }}
+    {{ $alttext := "" }}
     {{ with .Exif }}
         {{ $title = .Tags.ImageDescription }}
     {{ end }}
@@ -29,8 +30,13 @@
         {{ $title = $metadata.Description }}
     {{ end }}
 
+    {{ $alttext = $title }}
+    {{ if not $alttext }}
+        {{ $alttext = .Name }}
+    {{ end }}
+
     {{ $resized := .Fill "160x100 q60" }}
-    <a href="{{ .Permalink }}" data-lightbox="x" {{ if $title }}data-title="{{ $title }}"{{ end }}><img src="{{ $resized.Permalink }}" /></a>
+    <a href="{{ .Permalink }}" data-lightbox="x" {{ if $title }}data-title="{{ $title }}"{{ end }} data-alt="{{ $alttext }}"><img src="{{ $resized.Permalink }}" alt="{{ $alttext }}" /></a>
     {{ end }}
 {{ end }}
 </div>
