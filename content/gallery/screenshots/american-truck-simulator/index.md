@@ -7,7 +7,4 @@ aliases: /gallery/screenshots/american-truck-simulator/
 ---
 
 {{</* gallery cols="1" */>}}  
-{{</* figure src="/wp-content/uploads/2017/12/ats%5F00000.png" title="Desert Heavy Haul 1" alt="Desert Heavy Haul 1" */>}}
-
-{{</* figure src="/wp-content/uploads/2017/12/ats%5F00001.png" title="Desert Heavy Haul 2" alt="Desert Heavy Haul 2" */>}}  
 {{</* /gallery */>}}  
