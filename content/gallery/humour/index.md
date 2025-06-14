@@ -8,4 +8,4 @@ aliases: /gallery/humour/
 
 Various silly photo(shop)s
 
-\[gallery\]
+{{< gallery >}}

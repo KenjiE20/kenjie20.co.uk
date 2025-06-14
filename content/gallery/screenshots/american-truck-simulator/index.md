@@ -6,5 +6,4 @@ guid: https://www.kenjie20.co.uk/?page_id=1316
 aliases: /gallery/screenshots/american-truck-simulator/
 ---
 
-{{</* gallery cols="1" */>}}  
-{{</* /gallery */>}}  
+{{< gallery >}}

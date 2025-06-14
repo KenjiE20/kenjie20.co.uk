@@ -8,4 +8,4 @@ aliases: /gallery/terragen/
 
 Random landscapes I've made in Terragen1 and 2
 
-\[gallery\]
+{{< gallery >}}

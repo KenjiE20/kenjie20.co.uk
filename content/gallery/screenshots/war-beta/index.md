@@ -6,4 +6,4 @@ guid: http://www.longbowslair.co.uk/wordpress/?page_id=254
 aliases: /gallery/screenshots/war-beta/
 ---
 
-\[gallery\]
+{{< gallery >}}

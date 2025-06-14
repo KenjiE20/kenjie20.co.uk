@@ -5,6 +5,5 @@ lastmod: "2018-08-08T22:34:39+01:00"
 guid: https://www.kenjie20.co.uk/?page_id=1321
 aliases: /gallery/screenshots/euro-truck-simulator-2/
 ---
-  
-{{</* gallery cols="1" */>}}  
-{{</* /gallery */>}}  
+
+{{< gallery >}}

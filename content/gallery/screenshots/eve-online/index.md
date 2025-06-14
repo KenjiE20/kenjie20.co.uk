@@ -6,4 +6,4 @@ guid: http://www.longbowslair.co.uk/wordpress/?page_id=199
 aliases: /gallery/screenshots/eve-online/
 ---
 
-\[gallery\]
+{{< gallery >}}

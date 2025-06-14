@@ -6,5 +6,4 @@ guid: http://www.longbowslair.co.uk/wordpress/?page_id=240
 aliases: /gallery/screenshots/rf-online/
 ---
 
-{{</* gallery cols="1" */>}}  
-{{</* /gallery */>}}  
+{{< gallery >}}

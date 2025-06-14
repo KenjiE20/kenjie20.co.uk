@@ -10,15 +10,7 @@ This map has a layout similar to FacingWorlds (CTF-Face) or perhaps closer to hy
 
 > > Right when the tournaments began Liandri noticed cargo and supplies for the tournaments regularly disappearing during transit. An inquiry soon proved that the escort teams were using some of the cargo to play illicit CTF matches for their own profit. Liandri now provides extra munitions aboard these cargo convoy's to stop the escort teams using up all the tournament supplies.
 
-{{</* gallery cols="2" */>}}  
-{{</* figure src="/wp-content/uploads/2008/12/ctf-lb-convoy-shot01.jpg" title="ctf-lb-convoy-shot01" alt="ctf-lb-convoy-shot01" */>}}
-
-{{</* figure src="/wp-content/uploads/2008/12/ctf-lb-convoy-shot02.jpg" title="ctf-lb-convoy-shot02" alt="ctf-lb-convoy-shot02" */>}}
-
-{{</* figure src="/wp-content/uploads/2008/12/ctf-lb-convoy-shot03.jpg" title="ctf-lb-convoy-shot03" alt="ctf-lb-convoy-shot03" */>}}
-
-{{</* figure src="/wp-content/uploads/2008/12/ctf-lb-convoy-shot04.jpg" title="ctf-lb-convoy-shot04" alt="ctf-lb-convoy-shot04" */>}}  
-{{</* /gallery */>}}  
+{{< gallery >}}
 
 ### Filename: CTF-LB-Convoy.zip
 ### Size: 2,003KB
