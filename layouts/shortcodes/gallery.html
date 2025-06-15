@@ -37,7 +37,7 @@
 
     {{ $resized := .Fill "160x100 q60" }}
     <a href="{{ .Permalink }}" data-lightbox="x" {{ if $title }}data-title="{{ $title }}"{{ end }} data-alt="{{ $alttext }}">
-    <img loading="lazy" src="{{ $resized.Permalink }}" alt="{{ $alttext }}" />
+    <img loading="lazy" src="{{ $resized.Permalink }}" alt="{{ $alttext }}" width="160" height="100" />
     </a>
     {{ end }}
 {{ end }}
