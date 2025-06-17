@@ -27,7 +27,7 @@
     {{ if $metadata }}
         {{ $metadata = $metadata.Content }}
         {{ $metadata = $metadata | unmarshal }}
-        {{ $title = $metadata.Description }}
+        {{ $title = $metadata.Title }}
     {{ end }}
 
     {{ $alttext = $title }}
