@@ -5,5 +5,3 @@ lastmod: "2016-05-12T00:20:53+01:00"
 guid: http://www.longbowslair.co.uk/?page_id=456
 aliases: /downloads/weechat-scripts/
 ---
-
-\[pagelist\_ext\]

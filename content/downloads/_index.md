@@ -5,5 +5,3 @@ lastmod: "2016-05-12T00:20:23+01:00"
 guid: http://eddie/wordpress/?page_id=183
 aliases: /downloads/
 ---
-
-\[subpages depth="1"\]
