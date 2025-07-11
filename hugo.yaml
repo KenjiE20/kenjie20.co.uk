@@ -14,6 +14,7 @@ privacy:
   youTube:
     disable: false
     privacyEnhanced: false
+enableRobotsTXT: true
 
 module:
   imports:
@@ -24,7 +25,8 @@ params:
   description: Wasting internet space since 1998
   #mainSections:
   #  - blog
-
+  defaultTheme: dark
+  disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
   ShowBreadCrumbs: true
