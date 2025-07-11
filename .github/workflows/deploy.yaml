@@ -38,22 +38,6 @@ jobs:
           path: ./public
           retention-days: 7
           
-      # - name: Rsync Deploy
-      #   uses: burnett01/rsync-deployments@7.0.2
-      #   with:
-      #     # -v: verbose
-      #     # -h: output numbers in a human-readable format
-      #     # -z: compress files during transfer
-      #     # -r: copy files recursively
-      #     # --delete: delete extraneous files from dest dirs
-      #     # --dry-run: perform a trial run with no changes made
-      #     switches: -vhzr --delete --dry-run
-      #     path: ./public/
-      #     remote_path: ~/www/
-      #     remote_host: kenjie20.co.uk
-      #     remote_user: user
-      #     remote_key: ${{ secrets.DEPLOY_KEY }}
-
   # lighthouse:
   #   runs-on: ubuntu-latest
   #   needs: build-and-deploy
