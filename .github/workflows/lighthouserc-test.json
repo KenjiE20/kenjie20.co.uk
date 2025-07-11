@@ -15,6 +15,9 @@
                 "preset": "desktop",
                 "skipAudits": ["is-on-https"]
             }
+        },
+        "assert": {
+            "preset": "lighthouse:recommended"
         }
     }
 }
