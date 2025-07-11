@@ -52,6 +52,7 @@ jobs:
             **/node_modules/**
             fileToExclude.txt
           dry-run: true
+          log-level: verbose
 
   # lighthouse:
   #   runs-on: ubuntu-latest
