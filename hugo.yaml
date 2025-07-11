@@ -24,7 +24,8 @@ params:
   description: Wasting internet space since 1998
   #mainSections:
   #  - blog
-
+  defaultTheme: dark
+  disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
   ShowBreadCrumbs: true
