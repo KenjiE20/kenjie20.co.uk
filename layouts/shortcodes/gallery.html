@@ -1,0 +1,44 @@
+<!-- Page Resource Gallery -->
+<!-- Details:
+    looks for sidecar with name format <image-filename>.meta
+    parses file as JSON and looks for key value "Description"
+    if found sets this as images title,
+    to appear as its lightbox caption
+-->
+
+{{ $image := (.Page.Resources.ByType "image") }}
+<div class="row"> 
+{{ with $image }}
+    {{ range . }}
+
+    {{ $title := "" }}
+    {{ $alttext := "" }}
+    {{ with .Exif }}
+        {{ $title = .Tags.ImageDescription }}
+    {{ end }}
+
+    {{ $metaFileName := print .Name ".meta"}}
+    {{ $metadata := slice }}
+    {{ if resources.GetMatch ($metaFileName) }}
+        {{ $metadata = resources.GetMatch ($metaFileName) }}
+    {{ else }}
+        {{ $metadata = $.Page.Resources.GetMatch ($metaFileName) }}
+    {{ end }}
+    {{ if $metadata }}
+        {{ $metadata = $metadata.Content }}
+        {{ $metadata = $metadata | unmarshal }}
+        {{ $title = $metadata.Title }}
+    {{ end }}
+
+    {{ $alttext = $title }}
+    {{ if not $alttext }}
+        {{ $alttext = .Name }}
+    {{ end }}
+
+    {{ $resized := .Fill "160x100 q60" }}
+    <a href="{{ .Permalink }}" data-lightbox="x" {{ if $title }}data-title="{{ $title }}"{{ end }} data-alt="{{ $alttext }}">
+    <img loading="lazy" src="{{ $resized.Permalink }}" alt="{{ $alttext }}" width="160" height="100" />
+    </a>
+    {{ end }}
+{{ end }}
+</div>

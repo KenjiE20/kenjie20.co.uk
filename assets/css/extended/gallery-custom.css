@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.row a {
+  box-shadow: none;
+}
+.row img {
+  margin: 8px;
+}

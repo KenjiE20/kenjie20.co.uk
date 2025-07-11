@@ -3,6 +3,14 @@
         "collect": {
             "numberOfRuns": 3,
             "staticDistDir": "./public",
+            "url": [
+                "http://localhost/",
+                "http://localhost/blog/",
+                "http://localhost/blog/2016/05/japan-2016-photo-album/",
+                "http://localhost/gallery/screenshots/the-legend-of-zelda-breath-of-the-wild/",
+                "http://localhost/archives/",
+                "http://localhost/downloads/weechat-scripts/highmon/"
+            ],
             "settings": {
                 "preset": "desktop",
                 "skipAudits": ["is-on-https"]
