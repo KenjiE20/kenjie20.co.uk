@@ -4,9 +4,13 @@ on:
   push:
     branches-ignore:
       - main
+      - github-actions
+      - theme
   pull_request:
     branches-ignore:
       - main
+      - github-actions
+      - theme
   workflow_dispatch:
 
 jobs:
