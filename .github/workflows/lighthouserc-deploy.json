@@ -2,6 +2,14 @@
     "ci": {
         "collect": {
             "numberOfRuns": 3,
+            "url": [
+                "https://www.kenjie20.co.uk/",
+                "https://www.kenjie20.co.uk/blog/",
+                "https://www.kenjie20.co.uk/blog/2016/05/japan-2016-photo-album/",
+                "https://www.kenjie20.co.uk/gallery/screenshots/the-legend-of-zelda-breath-of-the-wild/",
+                "https://www.kenjie20.co.uk/archives/",
+                "https://www.kenjie20.co.uk/downloads/weechat-scripts/highmon/"
+            ],
             "settings": {
                 "preset": "desktop"
             }

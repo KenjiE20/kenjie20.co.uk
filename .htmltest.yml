@@ -1,4 +1,43 @@
 DirectoryPath: "public"
 #CheckExternal: false # Returned to default, use flag on GH action, default true in dev env
+#CheckInternalHash: false
 IgnoreURLs:
+  # outside dirs
+  - \/files\/
+  # Ignore <img src="*#center"> for centered images in PaperMod, which would cause "hash not found"
+  # Match internal image path ending in #center
+  - .*\.(apng|gif|ico|cur|jpg|jpeg|jfif|pjpeg|pjp|png|svg)#center$$
+  # Match external image URL ending in #center
+  - (https://|http://|www\.).*\.[A-Za-z]+#center$$
+  # dev server
   - livereload
+  # social stuff
+  - x\.com
+  - twitter\.com
+  - linkedin\.com
+  - reddit\.com
+  - facebook\.com
+  - whatsapp\.com
+  - telegram\.me
+  - ycombinator\.com
+  - spotify\.com
+  - flickr\.com
+  - bsky\.app
+  # old article links
+  - smileville\.co\.uk
+  - merc-inc\.co\.uk
+  - www\.microsoft\.com\/windows\/windows-7
+  - forums\.beyondunreal\.com\/showthread\.php\?t=182976
+  - www\.shephardsmind\.half-lifecreations\.com
+  - www\.s2games\.com
+  - weechat\.flashtux\.org
+  - fav\.me\/d4hzu39
+  - labs\.bittorrent\.com\/bleep
+  - opengarden\.com\/firechat
+  - appear\.in
+  - www\.elliottmilitary\.co.uk
+  - xfire\.com
+  - raptr\.com
+IgnoreDirs:
+  - old/about
+  - blog/2008/06/anidb-sig

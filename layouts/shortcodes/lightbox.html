@@ -11,6 +11,8 @@
 
 {{ $link := .Get "link" }}
 {{ $thumb := .Get "thumb" }}
+{{ $thumbwidth := "" }}
+{{ $thumbheight := "" }}
 {{ $alttext := .Get "alt" }}
 {{ if not $alttext }}
     {{ if .Get "title" }}
@@ -43,8 +45,19 @@
                 {{ $thumb = $image.Process (printf "Fill %s q60" $size) }}
             {{ end }}
         {{ end }}
+        {{ $thumbwidth = $thumb.Width }}
+        {{ $thumbheight = $thumb.Height }}
         {{ $thumb = $thumb.Permalink }}
     {{ end }}
+{{ else }}
+    {{ $image := "" }}
+    {{ if resources.GetMatch ($thumb) }}
+        {{ $image = .resources.Get ($thumb) }}
+    {{ else }}
+        {{ $image = .Page.Resources.Get ($thumb) }}
+    {{ end }}
+    {{ $thumbwidth = $image.Width }}
+    {{ $thumbheight = $image.Height }}
 {{ end }}
 
 <figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
@@ -52,6 +65,6 @@
            {{- with .Get "class" }}{{ . }}{{- end }}"
 {{- end -}}>
 <a href="{{ $link }}" data-lightbox="x" {{ if .Get "title" }}data-title="{{ .Get "title" }}"{{ end }} data-alt="{{ $alttext }}">
-<img loading="lazy" src="{{ $thumb }}{{- if eq (.Get "align") "center" }}#center{{- end }}" alt="{{ $alttext }}" />
+<img loading="lazy" src="{{ $thumb }}{{- if eq (.Get "align") "center" }}#center{{- end }}" alt="{{ $alttext }}" width="{{ $thumbwidth }}" height="{{ $thumbheight }}" />
 </a>
 </figure>

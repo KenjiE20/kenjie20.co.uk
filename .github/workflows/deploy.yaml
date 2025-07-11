@@ -37,22 +37,22 @@ jobs:
           name: hugo-build
           path: ./public
           retention-days: 7
-          
-      # - name: Rsync Deploy
-      #   uses: burnett01/rsync-deployments@7.0.2
-      #   with:
-      #     # -v: verbose
-      #     # -h: output numbers in a human-readable format
-      #     # -z: compress files during transfer
-      #     # -r: copy files recursively
-      #     # --delete: delete extraneous files from dest dirs
-      #     # --dry-run: perform a trial run with no changes made
-      #     switches: -vhzr --delete --dry-run
-      #     path: ./public/
-      #     remote_path: ~/www/
-      #     remote_host: kenjie20.co.uk
-      #     remote_user: user
-      #     remote_key: ${{ secrets.DEPLOY_KEY }}
+
+      - name: FTP Deploy
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.ftp_server }}
+          username: ${{ secrets.ftp_username }}
+          password: ${{ secrets.ftp_password }}
+          local-dir: ./public/
+          server-dir: ~/www/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            fileToExclude.txt
+          dry-run: true
+          log-level: verbose
 
   # lighthouse:
   #   runs-on: ubuntu-latest
