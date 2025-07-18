@@ -6,7 +6,7 @@
 <!-- Logic to check and only load once -->
 {{ if or (.HasShortcode "gallery") (.HasShortcode "lightbox") }}
     <!-- Load jquery, lightbox2 -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous" async></script>
     <link rel="stylesheet" href="/ajax/lightbox2/2.11.5/css/lightbox.min.css" />
-    <script src="/ajax/lightbox2/2.11.5/js/lightbox.min.js"></script>
+    <script src="/ajax/lightbox2/2.11.5/js/lightbox.min.js" async></script>
 {{ end }}
