@@ -11,6 +11,7 @@ Website source for my personal site.
 + [Hugo](https://gohugo.io/) - Static Site Generator
 + [Hugo PaperMod](https://adityatelange.github.io/hugo-PaperMod/) - A theme for Hugo Sites
 + [lightbox2](https://github.com/lokesh/lightbox2) - Lightbox
++ [giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions
 + [peaceiris/actions-hugo](https://github.com/marketplace/actions/hugo-setup) - Github Actions for Hugo
 + [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - FTP Deploy
 + [treosh/lighthouse-ci-action](https://github.com/marketplace/actions/lighthouse-ci-action) - Lighthouse CI Action
