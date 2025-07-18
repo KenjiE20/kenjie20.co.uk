@@ -41,6 +41,7 @@ params:
       SiteVerificationTag: "eGmAfVK-vY3GWwxSFJY26z5a7Ov_zKwJp2YMTNrxMJc"
   #mainSections:
   #  - blog
+  comments: true
   defaultTheme: dark
   disableThemeToggle: true
   assets:
