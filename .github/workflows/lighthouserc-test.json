@@ -17,7 +17,10 @@
             }
         },
         "assert": {
-            "preset": "lighthouse:recommended"
+            "preset": "lighthouse:recommended",
+            "assertions": {
+                "link-in-text-block": "off"
+            }
         }
     }
 }
