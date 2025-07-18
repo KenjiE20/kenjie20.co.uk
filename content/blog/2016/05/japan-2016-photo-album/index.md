@@ -18,6 +18,7 @@ aliases: /2016/05/japan-2016-photo-album/
   link="https://piwigo.kenjie20.co.uk/index.php?/category/japan-2016"
   alt="Japan 2016"
   width="180"
+  height="240"
   class="figure-right"
 >}}
 Better late than never, here's my photo album from my visit to Japan, between 26th March, and 9th April
