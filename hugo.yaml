@@ -27,6 +27,12 @@ module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
 params:
   author: KenjiE20
   description: Wasting internet space since 1998
@@ -105,3 +111,7 @@ menu:
       name: Old Pages
       url: /old/
       #weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
+      #weight: 20
