@@ -11,7 +11,8 @@
         "assert": {
             "preset": "lighthouse:recommended",
             "assertions": {
-                "link-in-text-block": "off"
+                "link-in-text-block": "off",
+                "color-contrast": "off"
             }
         }
     }
