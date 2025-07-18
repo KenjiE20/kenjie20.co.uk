@@ -1,3 +1,8 @@
+<!-- Goatcounter for basic visitor stats -->
+{{ if hugo.IsProduction }}
+<script data-goatcounter="https://kenjie20.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+{{ end }}
 <!-- Logic to check and only load once -->
 {{ if or (.HasShortcode "gallery") (.HasShortcode "lightbox") }}
     <!-- Load jquery, lightbox2 -->
