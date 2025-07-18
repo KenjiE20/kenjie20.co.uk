@@ -9,6 +9,13 @@ markup:
     parser:
       attribute:
         block: true
+  highlight:
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    # noClasses: false
+    style: monokai
 
 privacy:
   youTube:
@@ -27,6 +34,8 @@ params:
   #  - blog
   defaultTheme: dark
   disableThemeToggle: true
+  assets:
+    disableHLJS: true
   ShowShareButtons: true
   ShowReadingTime: true
   ShowBreadCrumbs: true
