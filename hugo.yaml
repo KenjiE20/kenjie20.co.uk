@@ -9,6 +9,13 @@ markup:
     parser:
       attribute:
         block: true
+  highlight:
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    # noClasses: false
+    style: monokai
 
 privacy:
   youTube:
@@ -20,6 +27,12 @@ module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
 params:
   author: KenjiE20
   description: Wasting internet space since 1998
@@ -27,6 +40,8 @@ params:
   #  - blog
   defaultTheme: dark
   disableThemeToggle: true
+  assets:
+    disableHLJS: true
   ShowShareButtons: true
   ShowReadingTime: true
   ShowBreadCrumbs: true
@@ -96,3 +111,7 @@ menu:
       name: Old Pages
       url: /old/
       #weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
+      #weight: 20
