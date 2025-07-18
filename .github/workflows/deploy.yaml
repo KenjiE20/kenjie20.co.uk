@@ -45,14 +45,14 @@ jobs:
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
           local-dir: ./public/
-          server-dir: ~/www/
+          server-dir: /www/
           exclude: |
             **/.git*
             **/.git*/**
             **/node_modules/**
             fileToExclude.txt
-          dry-run: true
-          log-level: verbose
+          #dry-run: true
+          #log-level: verbose
 
   lighthouse:
     runs-on: ubuntu-latest
