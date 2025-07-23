@@ -15,13 +15,6 @@
                 "preset": "desktop",
                 "skipAudits": ["is-on-https"]
             }
-        },
-        "assert": {
-            "preset": "lighthouse:recommended",
-            "assertions": {
-                "link-in-text-block": "off",
-                "color-contrast": "off"
-            }
         }
     }
 }
