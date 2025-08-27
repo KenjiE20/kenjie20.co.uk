@@ -8,7 +8,7 @@ tags:
 showtoc: true
 ---
 
-As promised (threatened?) [previously](/blog/2025/07/long-time-no-post) here's the follow up post about the migration to [Hugo](https://gohugo.io). There's a multitude of posts [^1] [^2] [^3] covering the why and how of swapping, so I won't rehash all of that. Instead I want to cover some of the workarounds and processes I went through converting this site.
+As promised (threatened?) [previously](/blog/2025/07/long-time-no-post/) here's the follow up post about the migration to [Hugo](https://gohugo.io). There's a multitude of posts [^1] [^2] [^3] covering the why and how of swapping, so I won't rehash all of that. Instead I want to cover some of the workarounds and processes I went through converting this site.
 
 Some extra context, in the theme of docker-ing all the things, I run my two hugo dev sites and VSCode editor in dockers (potentially worth a post on it's own, this one's long enough), so the compose files differ a little from stock.
 
