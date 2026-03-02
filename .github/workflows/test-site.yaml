@@ -52,7 +52,7 @@ jobs:
           skip_external: true
 
       - name: Archive htmltest results
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         if: always()
         with:
           name: htmltest-report
