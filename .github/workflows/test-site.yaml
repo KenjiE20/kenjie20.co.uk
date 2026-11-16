@@ -21,7 +21,7 @@ jobs:
     steps:
 
       - name: Checkout repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -40,7 +40,7 @@ jobs:
 
       - name: Cache htmltest external results
         id: htmltest-cache
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: tmp/.htmltest/refcache.json
           key: htmltest-refcache
@@ -52,7 +52,7 @@ jobs:
           skip_external: true
 
       - name: Archive htmltest results
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         if: always()
         with:
           name: htmltest-report
