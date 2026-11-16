@@ -13,8 +13,8 @@
 
     {{ $title := "" }}
     {{ $alttext := "" }}
-    {{ with .Exif }}
-        {{ $title = .Tags.ImageDescription }}
+    {{ with .Meta }}
+        {{ $title = .Exif.ImageDescription }}
     {{ end }}
 
     {{ $metaFileName := print .Name ".meta"}}
